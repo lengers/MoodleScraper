@@ -27,9 +27,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13990">Question Chapter 1</a></td><div class="posting fullpost">
 ###  <p>Because the CPU can only load data from main memory it would be ideal to store all programs and data in main memory permanently.&nbsp;</p>
  <p><span style="font-size:100%;">Name two reasons why this is usually not possible.</span></p>
@@ -57,9 +54,6 @@
  <p>Both answers are correct.</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13987">Question Chapter One</a></td><div class="posting fullpost">
@@ -138,9 +132,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14026">Chapter One, trap vs interrupt</a></td><div class="posting fullpost">
 ###  <b>Describe </b>briefly what a trap is. Furthermore, 
  <b>name</b> the differences between a trap and a interrupt
@@ -198,9 +189,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14021">Chapter One - Beowulf Cluster</a></td><div class="posting fullpost">
 ###  <p>Please explain the term "Beowulf Cluster".</p>
  <div class="attachedimages"></div>
@@ -230,9 +218,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13983">Chapter 1 Question</a></td><div class="posting fullpost">
 ###  <p>Where is a bootstrap programm stored, and which are its main tasks?<br></p>
  <div class="attachedimages"></div>
@@ -255,9 +240,6 @@
  <p>Both of your answers are correct!<br></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14003">Chapter 1</a></td><div class="posting fullpost">
@@ -289,9 +271,6 @@
  <p>Yeah, both of those answer look perfect. Thank you.</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14030">UMA / NUMA</a></td><div class="posting fullpost">
@@ -349,9 +328,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13973">Question - Chapter 1</a></td><div class="posting fullpost">
 ###  <p></p>
  <p><span lang="en-us" xml:lang="en-us"><b>Which </b><i>forms of memory</i> are there considering the aspect of rewritability?</span></p> 
@@ -391,9 +367,6 @@
  <br>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14028">Question Chapter 1- Timer Interrupts</a></td><div class="posting fullpost">
@@ -444,9 +417,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13989">chapter 1</a></td><div class="posting fullpost">
 ###  <p>What are protection mechanisms in operating systems and why are they important?<br></p>
  <div class="attachedimages"></div>
@@ -471,9 +441,6 @@
  <p>Both answers are correct and complete, thank you :)</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14025">C1 - Cache Memory</a></td><div class="posting fullpost">
@@ -506,9 +473,6 @@
  <p>Both your answers are correct and this information can be found in Chapter 1 Section 1.8 Storage Management.</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13962">1. &amp; 2. Chapter Operating Systems</a></td><div class="posting fullpost">
@@ -545,9 +509,6 @@
  <p>You can find the answer in "1.1.2 System View".<br></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13977">Chapter 1</a></td><div class="posting fullpost">
@@ -592,9 +553,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14000">Question Chapter 1 - Multiprocessor systems</a></td><div class="posting fullpost">
 ###  <p>What are the <b>blade servers</b>? What is the difference between these and traditional multiprocessor systems?</p>
  <div class="attachedimages"></div>
@@ -630,9 +588,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13978">Chapter 1 - Question</a></td><div class="posting fullpost">
 ###  <p>How is <b>multiprogramming </b>carried out by the operating system? Give a brief description of the underlying principle.<br></p>
  <div class="attachedimages"></div>
@@ -661,9 +616,6 @@
  <p>The answer is correct, thank you for your reply!<br></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14011">modes of operation</a></td><div class="posting fullpost">
@@ -702,9 +654,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14034">Chapter 1 - Virtual Memory</a></td><div class="posting fullpost">
 ###  <p>What is the main advantage of the virtual-memory scheme and how does that work?</p>
  <div class="attachedimages"></div>
@@ -736,9 +685,6 @@
  <p>Virtual memory is a&nbsp;<span style="line-height:1.5em;">technique that allows the execution of a process that is not completely in</span>memory. The main advantage of the virtual-memory scheme is that&nbsp;<span style="line-height:1.5em;">it enables users to run programs that are larger than actual physical memory.&nbsp;</span><span style="line-height:1.5em;">Further, it abstracts main memory into a large, uniform array of storage,&nbsp;</span><span style="line-height:1.5em;">separating logical memory as viewed by the user from physical memory.&nbsp;</span><span style="line-height:1.5em;">This arrangement frees programmers from concern over memory-storage&nbsp;</span><span style="line-height:1.5em;">limitations.</span></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13997">Question Chapter 1: </a></td><div class="posting fullpost">
@@ -790,9 +736,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14012">Chapter 2 Question</a></td><div class="posting fullpost">
 ###  <p>Name the six major categories of <b>system calls </b>and <b>briefly discuss</b> two of them.</p>
  <div class="attachedimages"></div>
@@ -841,9 +784,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13991">Chapter 1 Question</a></td><div class="posting fullpost">
 ###  <p>Name the two different classes of operating system services and describe two examples of each class<span style="line-height:1.5em;">.</span></p>
  <div class="attachedimages"></div>
@@ -863,9 +803,6 @@
  <p><span style="line-height:16.8px;">Examples and further information can be found in Ch. 2.1 about Operating System Services.</span></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14010">MS-DOS</a></td><div class="posting fullpost">
@@ -898,9 +835,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14027">Virtual Machines</a></td><div class="posting fullpost">
 ###  <p>Describe briefly what virtual machines are and name at least 3 advantages they bring with them.</p>
  <div class="attachedimages"></div>
@@ -919,9 +853,6 @@
  <p>The operating systems are isolated and therfore viruses cannot destroy another operating system. Virtual machines safe each other and the host system from viruses but ressources cannot be shared directly. By running several operating systems on one work station, a program can be tested on different operating systems with using only one computer.</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13979">Chapter 1, Question 1</a></td><div class="posting fullpost">
@@ -952,9 +883,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13980">Chapter 1 question </a></td><div class="posting fullpost">
 ###  <p></p>
  <p><span lang="en-us" style="font-size:9pt;line-height:107%;font-family:Helvetica, sans-serif;color:#666666;background:#FFFFFF;" xml:lang="en-us">What is an interrupt and how does the CPU react to a triggered interrupt? </span><span lang="en-us" xml:lang="en-us"></span></p>
@@ -983,9 +911,6 @@
  <p>Yes that's exactly the answer I was looking for, thanks both for the contribution.</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14029">Chapter 1 - I/O Structure</a></td><div class="posting fullpost">
@@ -1027,9 +952,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13985">Chapter 1 - Question</a></td><div class="posting fullpost">
 ###  <p>What are the differences between a program and a process,&nbsp; and if a multi-threaded process has n threads - how many program counters does this specific process have? (please justify your answer)<br></p>
  <div class="attachedimages"></div>
@@ -1059,9 +981,6 @@
  <p>A <b>single-threaded process</b> has only<b> one</b> program counter, which specifies the next instruction to be executed.&nbsp; A <b>n-threaded process</b> therefore needs <b>n program counters (one program counter per thread)</b>, each pointing to the next instruction to execute for its thread.<br></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13975">Chapter 1 question - components of a computer system</a></td><div class="posting fullpost">
@@ -1105,9 +1024,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14008">Typical instruction-exectuion cycle</a></td><div class="posting fullpost">
 ###  <p>How is a typical instruction- execution cycle on a system with a von Neumann architecture executed?<br></p>
  <div class="attachedimages"></div>
@@ -1142,9 +1058,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13972">Chapter One</a></td><div class="posting fullpost">
 ###  <p>How do you call the program when you power up your computer?</p>
  <p>Give some general facts about it and explain the process.</p>
@@ -1172,9 +1085,6 @@
  <p>The information can be found on page 7/8 as Tobias already mentioned.</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13969">Question for Part One</a></td><div class="posting fullpost">
@@ -1220,9 +1130,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13986">Chapter 1</a></td><div class="posting fullpost">
 ###  <p>Name and describe the two types of multiple-processor systems.<br></p>
  <div class="attachedimages"></div>
@@ -1243,9 +1150,6 @@
  <p><span style="line-height:1.5em;">2. Symmetric multiprocessing:<br></span>The processors are peers, each one has its own private/local cache and its own set of registers.<br>Each processor works &nbsp;on any task of the OS to allow that many tasks can run simultaneously. It is important to ensure that work is allocated to a suitable processor, to avoid the case&nbsp;in which one processor is idle, while another is overloaded.</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14007">Chapter 1 - Question</a></td><div class="posting fullpost">
@@ -1276,9 +1180,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=13982">Chapter 1 Question</a></td><div class="posting fullpost">
 ###  <p>What is a <b>control program</b>?</p>
  <div class="attachedimages"></div>
@@ -1304,9 +1205,6 @@
  A control program manages the execution of user programs by controlling the Input- and Output-Devices. An Operating system is a cotrol program.
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14022">Clustered Systems - Lecture One </a></td><div class="posting fullpost">
@@ -1343,9 +1241,6 @@
  <p><br></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14031">pre-installed Applications</a></td><div class="posting fullpost">
@@ -1397,9 +1292,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14101">Chapter 3 - Process States</a></td><div class="posting fullpost">
 ###  <p>Name the 5 States of a Process and describe them briefly.<br></p>
  <div class="attachedimages"></div>
@@ -1435,9 +1327,6 @@
  <p>Thank you for the good answer, I have nothing more to add.<br></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14151">Chapter 3: Stack and Heap</a></td><div class="posting fullpost">
@@ -1494,9 +1383,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14193">Chapter 4 threads issues</a></td><div class="posting fullpost">
 ###  <p><a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/name" rel="noreferrer">name</a> <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/the" rel="noreferrer">the</a> <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/different" rel="noreferrer">different</a> <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/threads" rel="noreferrer">threads</a> issues <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/and" rel="noreferrer">and</a> <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/explain" rel="noreferrer">explain</a> <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/one" rel="noreferrer">one</a> <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/in" rel="noreferrer">in</a> <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/detail" rel="noreferrer">detail</a>.<br></p>
  <div class="attachedimages"></div>
@@ -1538,9 +1424,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14198">Chapter 3: "Zombie Process"</a></td><div class="posting fullpost">
 ###  <p>What is a "Zombie Process"?</p>
  <div class="attachedimages"></div>
@@ -1576,9 +1459,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14202">Chapter 4 - multicore vs. multiprocessor systems</a></td><div class="posting fullpost">
 ###  <p>Name the difference between multicore systems and multiprocessor systems.</p>
  <div class="attachedimages"></div>
@@ -1611,9 +1491,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14185">Chapter 3: Long/Short-term scheduler</a></td><div class="posting fullpost">
 ###  <p>Please discribe the differences between a long- and a short-term scheduler!</p>
  <div class="attachedimages"></div>
@@ -1643,9 +1520,6 @@
  <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);"><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">Long term scheduling describes the assortment of a cluster of processes that can skirmish for the CPU.&nbsp;</span><br style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);"><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">It is usually influenced by resource-allocation considerations.</span><br></span></p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14150">Interprocess Communication</a></td><div class="posting fullpost">
@@ -1691,9 +1565,6 @@
 </div>
 ---
 
-
----
-
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14199">Chapter 3 - Sockets</a></td><div class="posting fullpost">
 ###  <p>Explain briefly what sockets are in Client-Server-Systems and name the two ways a connection can be set up.</p>
  <div class="attachedimages"></div>
@@ -1720,9 +1591,6 @@
  <p>Both answers are correct.</p>
  <div class="attachedimages"></div>
 </div>
----
-
-
 ---
 
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14190">Lecture 3 - Multiprocess Architecture</a></td><div class="posting fullpost">
@@ -1757,7 +1625,2048 @@
 </div>
 ---
 
-
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14162">Ch4 - Thread Creation with Java</a></td><div class="posting fullpost">
+###  <p>Name and briefly explain two techniques that can be used to create threads in Java.</p>
+ <div class="attachedimages"></div>
+</div>
 ---
 
-## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14162">Ch4 - Thread Creation with Java</a></td>
+<div class="posting fullpost">
+ <p>One technique is to create a new class that is derived from the Thread class and to override its run() method. An alternative technique is to define a class that implements the Runnable interface. When a class implements Runnable, it must define a run() method. The code implementing the run() method is what runs as a separate thread.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>One approach is to create a new class that is derived from the Thread class and to override its run() method. An alternative technique is to define a class that implements the Runnable interface. <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Both answers are correct and sufficient.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14200">Chapter 3 - Child process termination</a></td><div class="posting fullpost">
+###  <p>Name 4 reasons why a parent process may terminate its child process.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>1. The task of the child process is already done</p>
+ <p>2. Exceeding of usage of resources that the child process was allocated to</p>
+ <p>3. Parent's taks itself is exiting and the child process can't exist without the parent process</p>
+ <p>4. The task of the child process is not needed anymore</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The reasons are simply because <br></p>
+ <p>-&gt; the task of the child is not necessary anymore</p>
+ <p>-&gt; OR is already done<br></p>
+ <p>-&gt; OS denys that a child continues if the parent is terminating</p>
+ <p>-&gt; If the child p. has overstepped his usage of the resources that it has been allocated</p>
+ <p><br></p>
+ <p><br></p>
+ <p><br></p>
+ <p><br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>1)&nbsp;The task assigned to the child is no longer required</p>
+ <p>2)&nbsp;The parent is terminating and the operating system does not allow a child to&nbsp;<span style="line-height:1.5em;">continue if its parent terminates</span></p>
+ <p><span style="line-height:1.5em;">3) The child has exceeded the usage of its allocated ressources</span></p>
+ <p><span style="line-height:1.5em;">4) The child has finished its task and therefore is not needed anymore</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>All the answers are basically the same and right. I would refer to Quynh's answer due to well formulated sentences.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14184">Chapter 4: Multicore Systems</a></td><div class="posting fullpost">
+###  <p>Name the five areas where there are challenges in programming for multicore systems and give a one sentence explanation. <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The five areas are "<b>identifying tasks</b>", "<b>balance</b>", "<b>data splitting</b>", "<b>data dependency</b>" and "<b>testing and debugging</b>".<br><br></p>
+ <p>1. <b>Identifying tasks</b>:<br>This involves examining applications to find areas&nbsp;<span style="line-height:1.5em;">that can be divided into separate, concurrent tasks, which are ideally independent of one another.</span></p>
+ <p>2. <span><b>Balance</b></span>:<br>While identifying tasks that can run in parallel, programmers&nbsp;<span style="line-height:1.5em;">must also ensure that the tasks perform equal work of equal value.</span></p>
+ <p>3. <b>Data splitting</b>:<br>Just as applications are divided into separate tasks, the&nbsp;<span style="line-height:1.5em;">data accessed and manipulated by the tasks must be divided to run on&nbsp;</span><span style="line-height:1.5em;">separate cores.</span></p>
+ <p>4. <b>Data dependency</b>:<br>The data accessed by the tasks must be examined for&nbsp;<span style="line-height:1.5em;">dependencies between two or more tasks. When one task depends on&nbsp;</span><span style="line-height:1.5em;">data from another, programmers must ensure that the execution of the&nbsp;</span><span style="line-height:1.5em;">tasks is synchronized to accommodate the data dependency.</span></p>
+ <p>5.<b> Testing and debugging</b>:<br>When a program is running in parallel on&nbsp;<span style="line-height:1.5em;">multiple cores, many different execution paths are possible. Testing and&nbsp;</span><span style="line-height:1.5em;">debugging such concurrent programs is inherently more difficult than&nbsp;</span><span style="line-height:1.5em;">testing and debugging single-threaded applications.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <b>Answer:<br></b>The five areas are: 
+ <b>Identifying tasks, Balance, Data splitting,&nbsp; Data dependency, Testing and debugging.</b>
+ <br>
+ <br>
+ <b>Identifying tasks</b>. This involves examining applications to find areas
+ <br>that can be divided into separate tasks, so that in best case tasks are
+ <br>independent of one another and can run in parallel.
+ <br>
+ <br>
+ <b>Balance</b>. While identifying tasks that can run in parallel, programmers
+ <br>must also ensure that the tasks perform equal work of equal value. 
+ <br>
+ <br>
+ <b>Data splitting</b>. Just as applications are divided into separate tasks, the
+ <br>data accessed and manipulated by the tasks must be divided to run on
+ <br>separate cores.
+ <br>
+ <br>
+ <b>Data dependency</b>. Tasks must be examined for
+ <br>dependencies between two or more tasks, so when one task depends on
+ <br>data from another, programmers must ensure that the execution of the
+ <br>tasks is synchronized to accommodate the data dependency.
+ <br>
+ <br>
+ <b>Testing and debugging</b>. When a program is running in parallel on
+ <br>multiple cores, many different execution paths are possible so testing and
+ <br>debugging is more difficult than
+ <br>testing and debugging single-threaded applications.
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ I agree to these answers. One of you guys answered the wrong question tho! You should have answered the 3rd and 4th question not the 1st and 2nd :)
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Hi guys,</p>
+ <p><br></p>
+ <p>I think Franzi was wrong by answering here which I guess ain´t bad since her answer is really good. Philipp is right too except in for Point 4) You would have to say at the beginning : The data from the tasks must be examined and not the task itself since they are talking about the relevant data for other tasks.</p>
+ <p>Other than that i would go with Philipps answer.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14203">Chapter 4: Thread cancellation</a></td><div class="posting fullpost">
+###  <p>Please explain the term "thread cancellation" and give an example.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ "Thread cancellation" means terminating a thread before it has completed. If multiple threads are searching through a database simultaneously and one thread returns a result, the remaining threads might be canceled. It wouldn't make any sense to proceed if a result was found so the resources can be freed again.
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thread cancellation involves terminating a thread before it has completed. <br></p>
+ <p>Example: When a user presses a button on a web browser that stops<br>a web page from loading any further. Often, a web page loads using several<br>threads—each image is loaded in a separate thread. When a user presses the<br>stop button on the browser, all threads loading the page are canceled.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Both answers are correct, no further additions. Great examples, btw.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14157">Ch.3 Synchronization</a></td><div class="posting fullpost">
+###  <p>Explain the two types of message passing.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p style="margin-top:3.75pt;margin-right:0cm;margin-bottom:3.75pt;margin-left:0cm;line-height:18pt;background:#FFFFFF;"></p>
+ <p><span lang="en-us" xml:lang="en-us">Message passing may be either <b>synchronous</b> (blocking) or <b>asynchronous</b> (non-blocking).</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">&nbsp;</span></p> 
+ <p><span lang="en-us" xml:lang="en-us"><b>Synchronous message passing</b> occurs between objects that are running at the same time. It is what typical object-oriented programming languages such as Java use. </span></p> 
+ <p><span lang="en-us" xml:lang="en-us">Sender: The sending process is blocked until the message is received by the receiving process or by the mailbox.&nbsp;</span></p>
+ <p><span lang="en-us" xml:lang="en-us">Receiver: the receiver blocks until a message is available. &nbsp;</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">The advantage to synchronous message passing is that it is conceptually less complex.</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">&nbsp;</span></p>
+ <p><span lang="en-us" xml:lang="en-us"><br></span></p> 
+ <p><span lang="en-us" xml:lang="en-us">With<b> asynchronous message passing</b> it is possible for the receiving object to be busy or not running when the requesting object sends the message. Here, the sending system does not wait for a response.</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">Sender: The sending process sends the message and resumes operation. &nbsp;</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">Receiver: The receiver retrieves either a valid message or a null. </span></p> 
+ <p><span lang="en-us" xml:lang="en-us">Asynchronous message passing requires additional capabilities for storing and retransmitting data for systems that may not run concurrently.</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <div style="margin-top:5.76pt;margin-bottom:0pt;margin-left:.44in;text-indent:-.44in;text-align:left;vertical-align:baseline;">
+  <span style="line-height:1.5em;">Message passing may be either blocking (synchronous)&nbsp;</span>
+  <span style="line-height:1.5em;">or non-blocking (asynchronous).</span>
+  <br>
+ </div>
+ <p>Blocking: Blocking send has the sender block until the message is received.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Blocking receive has the receiver block until a message is available.</p>
+ <p><br></p>
+ <p>Non-blocking: Non-blocking send has the sender send the message and continue<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Non-blocking receive has the receiver receive a valid message or null.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Both of your answers are correct.</p>
+ <p></p>
+ <div style="margin-top:5.76pt;margin-bottom:0pt;margin-left:.44in;text-indent:-.44in;text-align:left;vertical-align:baseline;">
+  <span style="line-height:1.5em;">Message passing is either blocking (synchronous)&nbsp;</span>
+  <span style="line-height:1.5em;">or non-blocking (asynchronous).</span>
+  <br>
+ </div>
+ <p>If the message passing is blocking, then a&nbsp; blocking send has the sender block until the message is received and the blocking receive has the receiver block until a message is available.</p>
+ <p>If the message passing is non-blocking, then the non-blocking send has the sender send the message and continue, and the non-blocking receive has the receiver receive a valid message or null.</p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14179">Chapter 3 - Process Scheduling (I/O and cpu-bound processes)</a></td><div class="posting fullpost">
+###  <span>Briefly </span>
+ <b>describe</b> the 
+ <b>difference</b> between
+ <b> I/O-bound</b> and 
+ <b>cpu-bound processes</b>.
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The difference is about what the process is doing most of the time.</p>
+ <p>I/O.bound processes use most of their time doing I/O, while cpu-bound processes spend less time doing I/O but more time doing computations.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <b>I/O-bound process:</b> spends more time doing I/O than computations, many short CPU bursts
+ <p><b>CPU-bound process:</b> spends more time doing computations, few very long CPU bursts</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>First of all the I/O Bound is the opposite of the CPU bound.<br>We talk about a situation where the time that it takes to fulfill a computation is basically determined by <br>the waiting period that we have, waiting until the I/O operations are completed.</p>
+ <p>-&gt; I/O Bound processes rather do I/O than computations.<br></p>
+ <p>A computer is CPU bound when speed of the processor defines the time to complete a task.</p>
+ <p>-&gt; sets I/O requests infrequently doing more computations .<br></p>
+ <br>
+ <br>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>You guys are right!</p>
+ <p><br></p>
+ <p>To sum up:</p>
+ <p><br></p>
+ <p><span><u>I/O-bound process</u></span>:&nbsp;<b>spends</b> <b>more of its time doing I/O</b> than<span style="line-height:1.5em;">&nbsp;doing computations</span></p>
+ <p><span style="line-height:1.5em;"><span><u>CPU-bound process</u></span>:&nbsp;</span>generates&nbsp;<span style="line-height:1.5em;">I/O requests infrequently, <b>using more of its time doing computations</b></span></p>
+ <p><span style="line-height:1.5em;"><b><br></b></span></p>
+ <p><span>Informations are from page 113.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14069">Ch.4 Thread Pools</a></td><div class="posting fullpost">
+###  <p>How do thread pools work and what are their benefits?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p>The general idea is to <b>create a number of threads</b> at process startup and place them into a pool, where they <b>wait</b><b> for work.</b></p> 
+ <p><i style="line-height:1.5em;">More detailed:</i><br></p>
+ <p></p>
+ <ol>
+  <li><span style="line-height:1.5em;">server receives a request </span><span style="line-height:1.5em;font-family:Wingdings;">à</span><span style="line-height:1.5em;"> a thread will be awakened (if one is available) and the request for service will be passed; if there’s no available thread, the server has to wait</span><br></li>
+  <li><span style="line-height:1.5em;">after completing its service, it returns to the pool and awaits more work</span></li>
+ </ol>
+ <p><b>Benefits:</b></p>
+ <p></p>
+ <ul>
+  <li><span style="line-height:1.5em;">Servicing a request with an existing thread is faster than waiting to create a thread.</span><br></li>
+  <li><span style="line-height:1.5em;">It limits the number of threads that exist at any one point (</span><span style="line-height:1.5em;font-family:Wingdings;">à</span><span style="line-height:1.5em;"> important on systems with no ability to support many concurrent threads)</span><br></li>
+  <li><span style="line-height:1.5em;">The task to be performed is seperated from the mechanics of creating the task </span><span style="line-height:1.5em;font-family:Wingdings;">à</span><span style="line-height:1.5em;"> allows the use of different strategies for running the task</span><br></li>
+ </ul>
+ <p><br></p>
+ <p><i>The information was taken from p. 179/180.</i></p>
+ <p><i>A summery can be found on slide 29 in the PowerPoint-presentation.</i></p> 
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span style="font-size:100%;">Thread pools contain a certain number of threads that are being created with the start up of a server. When a request for service comes in the server assigns a thread - if one is available - from the tread pool to the request. When the Request is completed the thread returns to the thread pool. If there is an request for service but no threads left in the thread pool, the server waits until one is available.</span></p>
+ <p><span style="font-size:100%;">Thread pools offer the&nbsp;</span>following<span style="font-size:100%;">&nbsp;</span>benefits:</p>
+ <p></p>
+ <ol>
+  <li>Servicing a request with an existing thread is faster than waiting to create a thread.</li>
+  <li>A thread pool limits the number of threads that exist simultaneously<span style="font-size:100%;">. This is important for systems that can not handle a large number of threads concurrently.</span></li>
+  <li><span style="font-size:100%;">Seerating the task to be performed from the mechanics of creating the task allows us to use different strategies for running the task.</span></li>
+ </ol>
+ <div class="page" title="Page 204">
+  <div class="layoutArea">
+   <div class="column"> 
+   </div> 
+  </div> 
+ </div>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Both answers are very detailed and correct.&nbsp;</p>
+ <p>For further reading I recommend p.179&amp;180</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14156">Ch. 3 - Process Scheduling</a></td><div class="posting fullpost">
+###  <p>Name and describe the three&nbsp;scheduling queues of processes.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><b>Job queue: </b><br></p>
+ <p>All processes existing in the system are assigned to the job queue, when they enter the system.<br></p>
+ <p><b>Ready queue</b>:</p>
+ <p> All of the processes which are currently residing in main memory are kept on a queue/list called ready queue, since these processes are ready and waiting to be executed. The ready queue is usually stored as a linked list. The header of the ready queue keeps pointers to the first and last PCB in the list and each PCB has a pointer field which links to the following PCB in the ready queue.<br></p>
+ <p><b>Device queue:</b></p>
+ <p>All the processes which are currently waiting for a particular Input/Output device are kept on a queue called device queue. Each device has its specific device queue. A process may have to wait for a device, since it might be the case that the device has to serve other processes' I/O request first. <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>In my opinion Jasmins answer is very good. I have nothing to add here.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>You are right!&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14192">Chapter 4: Difficulties with Thread Cancellation</a></td><div class="posting fullpost">
+###  List some situations where difficulties might come up during thread cancellation.
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Difficulties can occur when a thread is cancelled , that was updating data and had to share this data with other threads or simply when resources where allocated to a canceled thread (data may will be lost) . When the OS is working asynchronously this becomes even a bigger problem. Some resources can be rescued by the OS, but not all of them.<br><br></p>
+ <p><br><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>- Resources have been allocated to a canceled thread<br>- When a&nbsp;thread is canceled while in&nbsp;<span style="line-height:1.5em;">the midst of updating data it is sharing with other threads<br></span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The answers are correct, thank you.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14174">Chapter 3: Creating of a child process</a></td><div class="posting fullpost">
+###  <p>When a process creates a child process, there a <b>two</b> options the "parent" can decide how to continue its execution. Name them.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <br>
+ <p>1. both execute at the same time</p>
+ <p>2. the parent process waits for the execution of the child process<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>No furhter additions to what Mr. Freytag already said.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you!<br>So when somebody want's so look it up again: page 121, there you will find all you need!<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14083">Chapter 3 - Organization of a memory</a></td><div class="posting fullpost">
+###  <p></p>
+ <p><span xml:lang="en-us" lang="en-us">Regarding to <u>memories</u>, we recognize certain units they usually consist of.</span></p> 
+ <p><b><span xml:lang="en-us" lang="en-us">Name</span></b><span xml:lang="en-us" lang="en-us"> those <i>main parts</i> and <b>emphasize</b> what <i>kind of data</i> they contain when they are in use.</span></p>
+ <p><span xml:lang="en-us" lang="en-us"></span></p>
+ <p><span xml:lang="en-us" lang="en-us"></span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Despite that no one has answered my question yet, I will give a final, correct answer now.</span></p> 
+ <p><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Main <b>parts</b> of a <b>memory</b> are the...<br></span></p> 
+ <p style="margin-left:36pt;text-indent:-18pt;"><span style="font-size:10pt;font-family:Symbol;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Text section</span></i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">: The program code/instructions of a process is/are stored in here, plus the status of the program counter and the content of the registers,</span></p> 
+ <p style="margin-left:36pt;text-indent:-18pt;"><span style="font-size:10pt;font-family:Symbol;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Data section</span></i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">: this section contains global variables,</span></p> 
+ <p style="margin-left:36pt;text-indent:-18pt;"><span style="font-size:10pt;font-family:Symbol;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Heap</span></i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">: this memory section is dynamically allocated during a process run time and is mainly filled with object variables,</span></p> 
+ <p style="margin-left:36pt;text-indent:-18pt;"><span style="font-size:10pt;font-family:Symbol;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Stack</span></i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">: the stack contains temporary variables (function parameters, return addresses, local variables).</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14201">Ch. 3 - Multitasking in mobile OS</a></td><div class="posting fullpost">
+###  <p>What is the characteristic property (limitation) on mobile OS like iOS or Android regarding to Multitasking?<br>Describe briefly how those handle it. <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Up to iOs there was no multitasking available. Since then Apple provides a limited form of multitasking for user applications, thus allowing a single foreground<br>Application to run concurrently with multiple background applications.Multitasking is probably limited because of the battery life and the memory use concerns.The CPU certainly has the features to support multitasking, but Apple chooses to not take advantage of some of them in order to better manage resource use.</p>
+ <p>Android does not place such constraints on the types of applications that<br>can run in the background. If an application requires processing while in<br>the background, the application must use a service, a separate application<br>component that runs on behalf of the background process.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you for your answer.</p>
+ <p>The core problem is, that (because of the screen size) only one application can be showed.<br>So in both systems there is a single foreground process.</p>
+ <p>In iOS background processes are highly limited and in Android they use services to do tasks. </p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14161">Chapter 3: Pipes</a></td><div class="posting fullpost">
+###  "A pipe acts as a conduit allowing two processes to communicate."
+ <br>
+ <br>Which issues must be considered in implementing a pipe? (There are four of them)
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>1. Does the pipe allow bidirectional communication, or is communication unidirectional?<br>2. If two-way communication is allowed, is it half duplex (data can travel only one way at a time) or full duplex (data can travel in both directions at the same time)?<br>3. Must a relationship (such as parent–child) exist between the communicating processes?<br>4. Can the pipes communicate over a network, or must the communicating processes reside on the same machine?<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>1. Does the pipe allow bidirectional communication, or is communication&nbsp;<span style="line-height:1.5em;">unidirectional?</span></p>
+ <p>2. If two-way communication is allowed, is it half duplex&nbsp;<span style="line-height:1.5em;">or full duplex</span><span style="line-height:1.5em;">?</span></p>
+ <p>3. Must a relationship exist between the communicating&nbsp;<span style="line-height:1.5em;">processes?</span></p>
+ <p>4. Can the pipes communicate over a network, or must the communicating&nbsp;<span style="line-height:1.5em;">processes reside on the same machine?</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thanks a lot for your answers, both are correct (and very similar).</p>
+ <p>I´d stick to Leonard´s answer because he also briefly explains terminologies which aren´t intuitive.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14164">Chapter 3: Buffering</a></td><div class="posting fullpost">
+###  Name the three different ways of implementing the message queue and explain them briefly.
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p style="color:#000000;">The three different ways of implementing the message queue are <b>zero capacity</b>, <b>bounded capacity</b> and<b> unbounded capacity</b><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">.</span></p>
+ <p></p>
+ <ul>
+  <li><span style="line-height:1.5em;"><b>Zero capacity</b><b>:</b> The queue has a maximum length of zero; thus, the link&nbsp;</span><span style="line-height:1.5em;">cannot have any messages waiting in it. In this case, the sender must block&nbsp;</span><span style="line-height:1.5em;">until the recipient receives the message.<br><br></span></li>
+  <li><span style="line-height:1.5em;"><b>Bounded capacity</b><b>:</b> The queue has finite length n; thus, at most n messages&nbsp;</span><span style="line-height:1.5em;">can reside in it. If the queue is not full when a new message is sent, the&nbsp;</span><span style="line-height:1.5em;">message is placed in the queue (either the message is copied or a pointer&nbsp;</span><span style="line-height:1.5em;">to the message is kept), and the sender can continue execution without&nbsp;</span><span style="line-height:1.5em;">waiting. The link’s capacity is finite, however. If the link is full, the sender&nbsp;</span><span style="line-height:1.5em;">must block until space is available in the queue.<br><br></span></li>
+  <li><span style="line-height:1.5em;"><b>Unbounded capacity:</b>&nbsp;The queue’s length is potentially infinite; thus, any&nbsp;</span><span style="line-height:1.5em;">number of messages can wait in it. The sender never blocks.&nbsp;</span><span style="line-height:1.5em;">The zero-capacity case is sometimes referred to as a message system with no&nbsp;</span><span style="line-height:1.5em;">buffering. The other cases are referred to as systems with automatic buffering.</span></li>
+ </ul>
+ <p><br></p>
+ <p>(Chapter 3, page 129,130)</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ The three ways are bounded capacity, zero or unbounded capazity.
+ <br>
+ <br>Bounded capacity: The final length is n and all messages can reside in it. If the queue isn´t full when a message is send it can be placed in the queue and the sender can continue executing without any delays. The capacity of the link is finite and if it is full, the sender must block until there is available space in the queue. 
+ <br>
+ <br>Zero capacity: The queue has a max. length of zeor and because of that the link can NOT have any messages waiting there and therefore the sender must block until the recipient receives the message.
+ <br>
+ <br>Unbounded capacity: The length is infinite so all messages can wait in it and the sender must never block. The zero-capacity case is sometimes referred to as a&nbsp; message system with no buffering.
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The three different ways of implementing the message queue are: <b>Zero capacity, Bounded capacity, unbounded capacity</b></p>
+ <p><br></p>
+ <p><b>Zero Capacity:</b> The queue has a maximum length of Zero. So it cannot have any massages waiting and the sender must block till the recipient receives the message.</p>
+ <p><b>Bounded capacity: </b>The queue has finite length n so that n messages<br>can wait in it. If the queue is not full when a new message is sent, the<br>message is placed in the queue and the sender can continue execution without<br>waiting but if the link is full, the sender must block until space is available.<b><br></b></p>
+ <p><br></p>
+ <p><b>Unbounded capacity: </b>The sender never blocks because the queue’s length is potentially infinite and any<br>number of messages can wait in it.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>I think it's not necessary to write another answer. I would just refer to Franziskas reply.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you all for proving answers. To have a single version of the right one I would like to refer to Franziska's answer and cite it right here:</p>
+ <p><br></p>
+ <p style="color:rgb(0,0,0);"><i>The three different ways of implementing the message queue are&nbsp;<b>zero capacity</b>,&nbsp;<b>bounded capacity</b>&nbsp;and<b>&nbsp;unbounded capacity</b><span style="color:rgb(102,102,102);line-height:18px;">.</span></i></p>
+ <ul style="color:rgb(0,0,0);">
+  <li><i><span style="line-height:1.5em;"><b>Zero capacity</b><b>:</b>&nbsp;The queue has a maximum length of zero; thus, the link&nbsp;</span><span style="line-height:1.5em;">cannot have any messages waiting in it. In this case, the sender must block&nbsp;</span><span style="line-height:1.5em;">until the recipient receives the message.<br><br></span></i></li>
+  <li><i><span style="line-height:1.5em;"><b>Bounded capacity</b><b>:</b>&nbsp;The queue has finite length n; thus, at most n messages&nbsp;</span><span style="line-height:1.5em;">can reside in it. If the queue is not full when a new message is sent, the&nbsp;</span><span style="line-height:1.5em;">message is placed in the queue (either the message is copied or a pointer&nbsp;</span><span style="line-height:1.5em;">to the message is kept), and the sender can continue execution without&nbsp;</span><span style="line-height:1.5em;">waiting. The link’s capacity is finite, however. If the link is full, the sender&nbsp;</span><span style="line-height:1.5em;">must block until space is available in the queue.<br><br></span></i></li>
+  <li><i><span style="line-height:1.5em;"><b>Unbounded capacity:</b>&nbsp;The queue’s length is potentially infinite; thus, any&nbsp;</span><span style="line-height:1.5em;">number of messages can wait in it. The sender never blocks.&nbsp;</span><span style="line-height:1.5em;">The zero-capacity case is sometimes referred to as a message system with no&nbsp;</span><span style="line-height:1.5em;">buffering. The other cases are referred to as systems with automatic buffering.</span></i></li>
+ </ul>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14119">Ch. 4: Parallelism vs Concurrency</a></td><div class="posting fullpost">
+###  <p><b>------Distinguish between parallelism and concurrency--------</b></p>
+ <p><b>&nbsp; </b>What is the <b>main difference </b>(short explanation) and what does this distinction mean for executing threads in single core and/vs multiple core systems?<br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ The distinction between 
+ <b>parallelism</b> and
+ <b> concurrency</b> is that parallelism runs several threads or processes at the same time (
+ <i>simultaneously</i>) whereas concurrency switches so fast between the different threads that
+ <i> it seems as it would run them in parallel</i>.
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p></p>
+ <p></p>
+ <p></p>
+ <p><br></p>
+ <p>Parallelism means the execution of multiple threads or processes within the system at the same time. This can be realized&nbsp;with multiprocessor-systems.</p>
+ <p>Concurrency is the opposite of parallelism. There multiple threads are executed by going through all threads and operating just a small amont of operations of one&nbsp;thread before&nbsp;setting the focus to the next one to perform some operations.&nbsp;As a User you should not recognize these switches. </p>
+ <p><br></p>
+ <p><br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <ul>
+  <li><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;line-height:16.8px;float:none;"><b>Parallelism </b></span><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;line-height:16.8px;float:none;">runs several threads or processes at the same time </span><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;line-height:16.8px;">simultaneously -&gt; this is only for multi core processor systems (because it can execute as many task as many cores the processor(s) have.</span><br></li>
+  <li><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;line-height:16.8px;float:none;"><b>Concurrency </b></span><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;line-height:16.8px;float:none;">switches between the different threads very fast, therefore</span><i style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;line-height:16.8px;">&nbsp;</i><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;line-height:16.8px;">it seems as it would run them in parallel -&gt; this way of executing threads can be used in both single core / multiple core systems, however it makes more sense to use this kind of thread execution mainly for a single core.</span><br></li>
+ </ul>
+ <p><span style="color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-variant:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);"><span style="font-weight:normal;color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-variant:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);"><br></span></span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ Thank you a lot for all of your answers. All of them are correct and accurately.
+ <br>
+ <br>I am going to sum it up again (for further information: Ch. 4 - page 166/167 - 4.2 Multicore Programming (9th edition)) :
+ <br>-----------------------------------------------------------------------------------
+ <br>
+ <b>Parallelism</b> means that the system is able to perform more than one task simultaneously. 
+ <br>
+ <b>Concurrency </b>means that the system supports more than one task by allowing all of them to make sequential progress.
+ <br>
+ <br>On a system with a 
+ <b>single computing core</b> only concurrency is possible, since we do only have one computing core being able to execute a thread. Concurrency means that the system switches between the concurrently 'running' threads rapidly to provide the illusion of parallelism for the user. 
+ <br>(the concept of concurrency may be used as well in multicore systems --&gt; possible to assign more than one thread to each of the n cores)
+ <br>
+ <br>On a
+ <b> multicore system</b> threads can really run in 
+ <b>parallel</b> since the system is able to assign a separate thread (or more) to each of its n cores.
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14186">Chapter4: Many-to-One Model</a></td><div class="posting fullpost">
+###  Explain the Idea behind the Many-to-One Model and name the 
+ <span class="short_text" lang="en" xml:lang="en">advantages of it</span>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span style="font-size:12pt;line-height:107%;" xml:lang="en-us" lang="en-us">There are user threads and kernel threads between which ultimately a relationship exists. The many – to –one model is one way how this relationship can be established.</span></p> 
+ <p><span style="font-size:12pt;line-height:107%;" xml:lang="en-us" lang="en-us">In the many-to-one model MANY user threads are matched to ONE kernel thread. Main advantage of this concepts is, that thread management is assigned to the thread library in user space, which enables efficiency.</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>I am very sorry, I didn't sort the participants list and answered the question of Georg instead of Carolin's by accident! <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The Many-to-One model maps many user-level threads to one kernel thread.&nbsp;<span style="line-height:1.5em;">&nbsp;Since only one thread can access the kernel at a time, multiple threads are unable to run in parallel on multiprocessors.</span></p>
+ <p><span style="line-height:1.5em;"><br></span></p>
+ <p><span style="line-height:1.5em;">Advantage: Efficiency</span></p>
+ <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">Thread management is done by the thread library in user&nbsp;<span style="line-height:1.5em;">space, so it is efficient; however the entire process will block if a thread makes a blocking system call.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Your answer is correct, thanks! <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The many-to-one model maps many user-level threads to one kernel thread. Thread management is done by the thread library in user space, so it is efficient.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Your answer is correct, thanks!<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14187">Chapter 3: Time Sharing</a></td><div class="posting fullpost">
+###  Name the objectives of time sharing and describe how these objectives are met.
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>&nbsp;The objective of time sharing is to switch the&nbsp;<span style="line-height:1.5em;">CPU among processes so frequently that users can interact with each program while it is running and&nbsp;</span>to maximize CPU utilization.</p>
+ <p>To meet these objectives, the process scheduler selects&nbsp;<span style="line-height:1.5em;">an available process for&nbsp;</span><span style="line-height:1.5em;">program execution on the CPU.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <div class="left" style="margin:0px;padding:0px;float:left;width:43px;color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;">
+  <div class="grouppictures" style="margin:0px;padding:0px;">
+   &nbsp;
+  </div>
+ </div>
+ <div class="no-overflow" style="margin:0px;padding:0px 0px 5px;color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;">
+  <div class="content" style="margin:0px;padding:0px;">
+   <div class="posting fullpost" style="margin:0px;padding:5px 0px 0px;">
+    <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);">Most of the time the CPU in a system is idle, waiting for instruction.&nbsp;</p>
+    <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);">The objective of time sharing is to more efficiently use the&nbsp;<span style="line-height:1.5em;">CPU by switching between processes very quickly so that multiple users can utilize the system efficiently and to achieve the illusion of parellism, this in turn</span>&nbsp;maximizes CPU utilization.</p>
+    <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);"><span style="line-height:1.5em;">These objectives are met by utilization of the process scheduler which will select&nbsp;</span><span style="line-height:1.5em;">an available process for&nbsp;</span><span style="line-height:1.5em;">program execution on the CPU.</span></p>
+   </div>
+  </div>
+ </div>
+ <div class="left" style="margin:0px;padding:0px;float:left;width:43px;color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;">
+  <div class="grouppictures" style="margin:0px;padding:0px;">
+   &nbsp;
+  </div>
+ </div>
+ <div class="no-overflow" style="margin:0px;padding:0px 0px 5px;color:rgb(0,0,0);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;">
+  <div class="content" style="margin:0px;padding:0px;">
+   <div class="posting fullpost" style="margin:0px;padding:5px 0px 0px;">
+    <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);"><br></p>
+   </div>
+  </div>
+ </div>
+ <br>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost" style="margin:0px;padding:5px 0px 0px;">
+ <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);">Most of the time the CPU in a system is idle, waiting for instruction.&nbsp;</p>
+ <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);">The objective of time sharing is to more efficiently use the&nbsp;<span style="line-height:1.5em;">CPU by switching between processes very quickly so that multiple users can utilize the system efficiently and to achieve the illusion of parellism, this in turn</span>&nbsp;maximizes CPU utilization.</p>
+ <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);"><span style="line-height:1.5em;">These objectives are met by utilization of the process scheduler which will select&nbsp;</span><span style="line-height:1.5em;">an available process for&nbsp;</span><span style="line-height:1.5em;">program execution on the CPU.</span></p>
+</div>
+---
+
+<div class="posting fullpost" style="margin:0px;padding:5px 0px 0px;">
+ <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);"><br></p>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>You are both right. This would be the perfect answer:<br></p>
+ <p>The objective of time sharing is to switch the CPU among processes so frequently that users can interact with each program while it is running. To meet these objectives, the process scheduler selects an available process for program execution on the CPU.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14172">Chapter 3: Context Switch</a></td><div class="posting fullpost">
+###  <p>What is the context switch and explain what happens.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p class="intro" style="margin:0cm;margin-bottom:.0001pt;text-align:justify;line-height:150%;background:#FFFFFF;"><span lang="en-us" style="font-size:11pt;line-height:150%;font-family:Arial, sans-serif;" xml:lang="en-us">A&nbsp;<b>context switch</b>&nbsp;occurs when a computer's&nbsp;</span><span style="font-size:11pt;line-height:150%;font-family:Arial, sans-serif;"><a href="http://www.computerhope.com/jargon/c/cpu.htm"><span lang="en-us" xml:lang="en-us">CPU</span></a></span><span style="font-size:11pt;line-height:150%;font-family:Arial, sans-serif;"> <span lang="en-us" xml:lang="en-us">switches from one process or thread to a different process or thread. It is basically a state save of the current process and a state restore of another. </span></span></p> 
+ <p class="intro" style="margin:0cm;margin-bottom:.0001pt;text-align:justify;line-height:150%;background:#FFFFFF;"><span lang="en-us" style="font-size:11pt;line-height:150%;font-family:Arial, sans-serif;" xml:lang="en-us">When a context switch occurs, the kernel saves the context of the old process in its PCB and loads the saved context of the new process scheduled to run. Switching speed varies from machine to machine, depending on the memory speed, the number of registers that must<br> be copied, and the existence of special instructions, but it usually only takes miliseconds to perform. Performance is also dependent of the existing hardware.</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Perfect Answer!<br></p>
+ <p>Context switch occurs when a computer's CPU switches from one process/thread to a different process/thread. <br><br>When a context switch occurs, the kernel saves the context of the old process in its PCB and loads the saved context of the new process to run. It usually only takes milliseconds to Switch.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14181">Multithreaded programming</a></td><div class="posting fullpost">
+###  <p>what are the benefits of multithreaded programming?&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p> </p>
+ <p style="margin:0cm 0cm 0pt;line-height:normal;"><b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Bold';font-size:10.5pt;" xml:lang="en-gb">Multithreaded programming have four major benefits.</span></b></p>
+ <p> </p>
+ <p style="font-style:normal;font-weight:normal;"></p>
+ <p style="line-height:normal;font-style:normal;font-weight:normal;margin-top:0cm;margin-bottom:0pt;"><b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Bold';font-size:10.5pt;" xml:lang="en-gb">Responsiveness</span></b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Roman';font-size:10.5pt;" xml:lang="en-gb">: Multithreading an interactive application may allow a program to continue running even if part of it is blocked or is performing a lengthy operation.</span></p>
+ <p> </p>
+ <p style="font-style:normal;font-weight:normal;"></p>
+ <p style="line-height:normal;font-style:normal;font-weight:normal;margin-top:0cm;margin-bottom:0pt;"><b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Bold';font-size:10.5pt;" xml:lang="en-gb">Resource sharing</span></b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Roman';font-size:10.5pt;" xml:lang="en-gb">: Threads are instead of processes able to share resources among each other. </span></p>
+ <p> </p>
+ <p style="font-style:normal;font-weight:normal;"></p>
+ <p style="line-height:normal;font-style:normal;font-weight:normal;margin-top:0cm;margin-bottom:0pt;"><b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Bold';font-size:10.5pt;" xml:lang="en-gb">Economy</span></b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Roman';font-size:10.5pt;" xml:lang="en-gb">: Allocating memory and resources for process creation is costly. Threads are more economical because they share the resources of the process to which they belong. Create and manage threads is significantly less time consuming than processes.</span></p>
+ <p> </p>
+ <p style="font-style:normal;font-weight:normal;"></p>
+ <p style="line-height:normal;font-style:normal;font-weight:normal;margin-top:0cm;margin-bottom:0pt;"><b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Bold';font-size:10.5pt;" xml:lang="en-gb">Scalability. </span></b><span lang="en-gb" style="color:rgb(35,31,32);font-family:'Palatino-Roman';font-size:10.5pt;" xml:lang="en-gb">In a multiprocessor architecture threads may be running in parallel on different processing cores. </span></p>
+ <p> <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Great answer, thanks!</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14146">Multi thread vrs Single thread solutions</a></td><div class="posting fullpost">
+###  <p>Are there programming examples where a multi threaded solution will provide no benefit over a single threaded solution? If so, briefly describe 2 of these scenarios.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>I am not sure if this is the answer that you wanted, but <br><br>There are five programming issues that are related to multi-threaded solution. One of them is the debugging and testing of the program because the program is running on multiple cores and another example is the data dependency. When one task depends on data from another, programmers must ensure that the execution of the tasks is synchronized.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span lang="en-us" xml:lang="en-us">Trivial code: When the calculation / processing that I want to execute is trivial, the overhead of creating threads is not efficient and rather slows the execution down, <br></span></p>
+ <p><span lang="en-us" xml:lang="en-us">so it is better to execute it in one thread. </span></p> 
+ <p><span lang="en-us" xml:lang="en-us">Run threads on single processor systems: If you part a process into multiple threads you will need extra time to synchronize, resume and dispose threads (context switching). --&gt; </span><span style="font-family:Wingdings;" lang="en-us" xml:lang="en-us"></span><span lang="en-us" xml:lang="en-us"> overhead costs more time than performance speed up saves.</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">When a single threaded application is run on one powerful processor/core the execution times of individual applications is reduced.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">Yes, both your answers are correct and stress the problems associated with multi threading in certain scenarios.</span></p>
+ <p>Yes there are programming examples where multi threading will not provide a superior performance over that of a single threaded system. These examples include:</p>
+ <p>When the processing of a thread is trivial, creating a thread will take longer than distributing the task and secondly s<span style="line-height:1.5em;">equential programs which are not designed with threading in mind ie a program which calculates an individual tax return.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14188">Chapter 3: Process Concept</a></td><div class="posting fullpost">
+###  A process includes multiple parts.
+ <p>Name and describe them briefly.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Generally speaking, a thread consists of:</p>
+ <p></p>
+ <ol>
+  <li>A unique ID</li>
+  <li>A register set to represent the processor status</li>
+  <li>A user stack (when thread is running in user mode) or a kernel stack (when thread is running in kernel mode)</li>
+  <li>A private storage area used by various run-time libraries and DLLs</li>
+ </ol>
+ <p>Furthermore, the primary data structures of a thread include:</p>
+ <ol>
+  <li><span style="color:rgb(51,51,51);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">ETHREAD - executive thread block</span></li>
+  <li><span style="line-height:18px;">KTHREAD - kernel thread block</span></li>
+  <li><span style="line-height:18px;">TEE - thread environment block</span></li>
+ </ol>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p> <br></p>
+ <p style="margin:0cm 0cm 10pt;">A process is a program in execution. It consists of multiple parts:</p>
+ <p><br></p>
+ <p style="margin:0cm 0cm 10pt;">The text section: the program code of the process itself</p>
+ <p> <br></p>
+ <p style="margin:0cm 0cm 10pt;">The current activity: it is represented by the value of the program counter and the content of the registers</p>
+ <p> <br></p>
+ <p style="margin:0cm 0cm 10pt;">The process stack: it holds temporary data, for instance function paramenters, return addresses and local variables</p>
+ <p> <br></p>
+ <p style="margin:0cm 0cm 10pt;">The data section: it contains global variables</p>
+ <p> <br></p>
+ <p style="margin:0cm 0cm 10pt;">The heap (optional): it is memory that is dynamically allocated at process runtime</p>
+ <p> <br></p>
+ <p><br></p>
+ <p></p>
+ <p><br></p>
+ <p></p>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A process consists of:</p>
+ <p>The text section (Coding),</p>
+ <p>The Program counter (represents the current activity),</p>
+ <p>The Process Stack (contains temporary files),</p>
+ <p>The Data Section (contains global variables)</p>
+ <p>and the Heap (dynamic memory which is allocated during the runtime of the process).</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ The question is answered correctly by Adam and Oliver.&nbsp;
+ <p>Unfortunately Tobias explained a thread - not a general process.</p>
+ <p>The information can be found on slide 6 in the 3rd PowerPoint.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14191">Chapter 4 User and Kernel Threads</a></td><div class="posting fullpost">
+###  <p>What is the difference between user and kernel threads?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <b>User Threads</b> are supported above the kernel and are managed without kernel support.
+ <br>
+ <br>
+ <b>Kernel Threads</b> are supported and managed directly by the operating system.&nbsp;
+ <br>
+ <br>A relationship has to exist between those two thread types. There are many ways to establishing such a relationship, such as the Many-to-One
+ <span style="color:rgb(51,51,51);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">-Model</span>, the One-to-One
+ <span style="color:rgb(51,51,51);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">-Model</span> and the Many-to-Many-Model.
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>While Kernel threads are directly supported and managed by the operating system, User threads are supported above the kernel and managed without any kernel support.</p>
+ <p>As Tobias already wrote, a relationship has to exist between those two thread types. There are many ways to establishing such a relationship, such as the Many-to-One-Model<span style="color:rgb(51,51,51);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);"></span>, the One-to-One-Model <span style="color:rgb(51,51,51);font-family:Arial, Helvetica, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:16.8px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);"></span>and the Many-to-Many-Model.<br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Both answers are correct. Although, I did not ask for the different relationship types. :)<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A kernel thread is managed and supported by the operating system while a user threat is supported on top of the kernel and does not need its support.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14149">Chapter 4 - Thread Libraries</a></td><div class="posting fullpost">
+###  <p>What is a <b>thread library</b> and name the two primary ways of implementing a thread library.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A thread library<b> provides the programmer with an API for for creating and managing threads</b> e.g. Java, Windows.</p>
+ <p>The first of implementing a thread library is to provide a <b>library completely in user space</b> <b>without any&nbsp;</b><span style="line-height:1.5em;"><b>kernel support</b>, which means that all data structures and code <b>exist in</b> <b>user space</b>. As a result, invoking a function in the library results in a&nbsp;<b>local functional call</b>, not a system call.</span></p>
+ <p>The second way is to <b>implement a kernel-level library</b> <b>supported&nbsp;</b><span style="line-height:1.5em;"><b>directly by the operating system</b>, which means that all code and data structures of the library <b>exist in the kernel</b>. Therefore, invoking a function in the library results in a <b>system call</b>.</span></p>
+ <p><br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">A thread library</span><b style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">&nbsp;provides the programmer with an API for for creating and managing threads</b><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">&nbsp;e.g. Java, Windows.</span></p>
+ <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);"><br></span></p>
+ <p>There are two primary ways of implementing a thread&nbsp;<span style="line-height:1.5em;">library!</span></p>
+ <p>1. provide a library entirely in user space with no&nbsp;<span style="line-height:1.5em;">kernel support</span></p>
+ <p>2. implement a kernel-level library supported&nbsp;<span style="line-height:1.5em;">directly by the operating system</span></p>
+ <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);"><br></span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14189">Chapter 3: Process Control Block</a></td><div class="posting fullpost">
+###  Define the "Process Control Block (PCB)" and name the seven pieces of information which are included in it.
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><br>A PCB is a representation of a process within the operating system.<br></p>
+ <p>Process state</p>
+ <p>Program counter</p>
+ <p>CPU registers</p>
+ <p>CPU-scheduling information</p>
+ <p>Memory-management</p>
+ <p>Accounting information</p>
+ <p>I/O status information<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span style="line-height:1.5em;">I can only say the same that Simon already said before me.&nbsp;</span></p>
+ <p><b style="line-height:1.5em;">Process Control Block&nbsp;<span style="float:none;">&nbsp;</span></b><span style="float:none;">is a representation of a process within the operating system.</span></p>
+ <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);"><u>Pieces of information that are included in it</u>:</span></p>
+ <p></p>
+ <ol>
+  <li><b style="line-height:1.5em;">Process state:&nbsp;</b><span style="line-height:1.5em;">The state may be new, ready, running, waiting, halted, and so on.</span><br></li>
+  <li><b style="line-height:1.5em;">Program counter:</b><span style="line-height:1.5em;"> The counter indicates the address of the next instruction to be executed for this process.</span><br></li>
+  <li><b style="line-height:1.5em;">CPU registers:&nbsp;</b><span style="line-height:1.5em;">The registers vary in number and type, depending on the computer architecture. They include accumulators, index registers, stack pointers, and general-purpose registers, plus any condition-code information. Along with the program counter, this state information must be saved when an interrupt occurs, to allow the process to be continued correctly afterward.</span><br></li>
+  <li><b style="line-height:1.5em;">CPU-scheduling information:&nbsp;</b><span style="line-height:1.5em;">This information includes a process priority, pointers to scheduling queues, and any other scheduling parameters.</span><br></li>
+  <li><b style="line-height:1.5em;">Memory-management information:</b><span style="line-height:1.5em;"> This information may include such information as the value of the base and limit registers, the page tables, or the segment tables, depending on the memory system used by the operating system.</span><br></li>
+  <li><b style="line-height:1.5em;">Accounting information:&nbsp;</b><span style="line-height:1.5em;">This information includes the amount of CPU and real time used, time limits, account numbers, job or process numbers, and so on.</span><br></li>
+  <li><b style="line-height:1.5em;">I/O status information:&nbsp;</b><span style="line-height:1.5em;">This information includes the list of I/O devices allocated to the process, a list of open files, and so on.</span><br></li>
+ </ol>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>I think this is the question I should reply to even though there are already two answers, correct me if I'm wrong! :) Anyways, the people before me already said everything, but to put it a different way:</p>
+ <p>All of the information needed to keep track of a process when switching is kept in a data package called a process control block. The process control block typically contains:</p>
+ <p><br></p>
+ <p>An ID number that identifies the process</p>
+ <p>Pointers to the locations in the program and its data where processing last occurred</p>
+ <p>Register contents</p>
+ <p>States of various flags and switches</p>
+ <p>Pointers to the upper and lower bounds of the memory required for the process</p>
+ <p>A list of files opened by the process</p>
+ <p>The priority of the process</p>
+ <p>The status of all I/O devices needed by the process</p>
+ <p></p>
+ <p style="margin:0px 0px 10px;font-size:1.163em;line-height:1.5em;color:rgb(51,51,51);font-family:'Source Sans Pro', sans-serif;font-style:normal;font-variant:normal;font-weight:300;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);"><br></p>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14196">Chapter 4 - multithreading model</a></td><div class="posting fullpost">
+###  <p>Describe the ways in which user threads can be mapped to kernel threads, give examples for each possible mapping!</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Describe the ways in which user threads can be mapped to kernel threads, give examples for each possible mapping!<br><br>User threads can be mapped to kernel threads in several ways:<br><br>1.) One-to-One Model<br><br>Every User Thread is mapped to a Kernel Thread. That means that everytime&nbsp; a user-thread is created. also another (corresponding) kernel-thread must be created&nbsp; .&nbsp; The One-to-One model can really strain the performance&nbsp; (that is why on some systems the number of threads is limited) of the system but provides some advantages. First when a thread blocks ( a blocking system call happens), it is possible that another thread can continue its execution. Besides that, multiple threads can run at the same time on a multiprocessor system.<br><br>Example: The Windows Operating System<br><br>2.) Many-to-Many Model<br><br>The user-threads are represented by the use of a smaller (or equal) number of kernel threads. The number depends on the particular application or particular machine. Here the user can create a lot of threads but the concurrency will not be as good as the concurrency on the One-to-One model because the kernel can only schedule one thread at a time.<br>Kernel threads can run at the same time on a multiprocessor system and again when a blocking system-call happens, another thread can continue executing.<br><br>Example: IRIX (Unix-OS)<br><br>3.) Two level mode<br><br>A variation of the Many-to-Many Model. It has the properties of a Many-to-Many Model but also provides, that a user-thread can be chained to a kernel thread (user thread &lt;---&gt; kernel thread)<br><br>Example: Older Solaris Versions (older than Solaris 9)<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>I forgot the <b>many to one</b> model:<br><br>many user threads are mapped in one kernel thread (managed by thread libary in user space.) When a thread blocks, there is no way the process can continue, also multiple threads can not run on a on a multicore system.<br><br>Example:Early Java/Solaris versions<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>There are 3 ways in which the user thread and the kernel thread are mapped:</p>
+ <p><b>Many-To-One Model:</b></p>
+ <p>This model maps many user threads to one kernel thread. The thread library in user space is used as thread management. Only one user thread can access the kernel thread at a time so multiple threads are unable to run in parallel on multiprocessors. Eg. Green threads available in Solaris</p>
+ <p><br></p>
+ <p><b>One-To-One Model:</b></p>
+ <p>This model maps one user thread to one kernel thread. This allows all user threads to be run at the same time and also allows for multiple threads to be run in parallel on multiprocessors. A disadvantage of this model is that for each user thread created, a corresponding kernel thread must also be created.&nbsp;</p>
+ <p><br></p>
+ <p><b>Many-To-Many Model:</b></p>
+ <p><span><span>In this model, an equal of smaller number of kernel threads are created to be mapped to the user threads. The number of kernel threads may be specific to either a particular application or particular machine. Unlike the one-to-one model, true concurrency cannot be achieved because the kernel can schedule only one thread at a time.</span></span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you for your answers! Both are detailed and correct, good job! :)</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14210">Chapter 3: Loopback</a></td><div class="posting fullpost">
+###  <p>What is the loopback? What is it used for?<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The IP address 127.0.0.1 is a special IP address known as the loopback. When a computer refers to IP address 127.0.0.1, it is referring to itself. This mechanism allows a client and Server on the same host to communicate using the TCP/IP protocol. The IP address 127.0.0.1 could be replaced with the IP address of another host running the date server. <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ The answer is correct, thank you for your reply!
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ A Loopback is a special IP address (e.g. 127.0.0.1) which allows the computer to referring itself. By having the same host 
+ <br>the IP address allows the user to communicate via TCP/IP protocol. 
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The answer is correct, thank you for your reply!<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14197">Chapter 3 - Communication in client-server systems</a></td><div class="posting fullpost">
+###  <p>What is a <b>socket</b>? How are they used to help communication in client-server systems?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A socket is an <b>endpoint for communication</b>. The server waits for incoming client requests by listening to a specified port. If a request is received, the server accepts a connection from the client socket to complete.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Basically, a <b>socket</b> is defined as an endpoint of communication. </span></p> 
+ <p><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">In general, sockets use a <b>client-server architecture</b> in order to communicate with each other. To make sockets accessible, it gets an IP address concatenated with a port number.</span><span lang="en-us" xml:lang="en-us"></span></p> 
+ <p><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">If several processes communicate with each other via a network, there are the same amount of sockets needed as there are processes communicating. When a client process initiates a request for a connection, it is assigned a port by its host computer. A server waits for requests by listening to a specified port. If it receives a request the server completes the connection from the client socket to itself by accepting this connection. It has to consider that all connections must be unique.</span></p> 
+ <p><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Some servers which are implementing specified services (e.g. telnet, HTTP, FTP) listen to so-called well-known ports. Those ports are the ones below 1024 and are used for implementing standard services.</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14288">scheduling decisions </a></td><div class="posting fullpost">
+###  <p>When will the scheduling decisions take place?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Scheduling decisions may take place when a process <br></p>
+ <ul>
+  <li>switches from running to waiting state</li>
+  <li>switches from running to read state</li>
+  <li>switches from waiting to ready</li>
+  <li>terminates<br></li>
+ </ul>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Your answer is correct.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14295">Classical problems of synchronization</a></td><div class="posting fullpost">
+###  <p>Please name the problems which are used to test synchronization schemes.<span style="font-size:24pt;font-family:Arial;color:#000000;"></span><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <ul>
+  <li>Bounded - Buffer Problem</li>
+  <li><span class="rangySelectionBoundary" style="line-height:0;">﻿</span>Reader - Writer Problem</li>
+  <li>Dining - Philosophers Problem</li>
+ </ul>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>As Lars already stated, the major problems used to test synchronization schemes are <br></p>
+ <p>-The Bounded-Buffer-Problem</p>
+ <p>-The Readers-Writers-Problem</p>
+ <p>-The Dining-Philosophers-Problem.</p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Both of your answers are correct.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14292">Chapter 5 - Round Robin</a></td><div class="posting fullpost">
+###  <p><b>Scheduling with Round Robin:</b></p>
+ <p><span style="line-height:1.5em;">The processes and Burst Time is given in the table bellow.</span><br></p>
+ <p><b><u>Process</u>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <u>Burst Time</u></b></p>
+ <p>P1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;24</p>
+ <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">P2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3</span></p>
+ <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">P3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3</span>&nbsp;</p>
+ <p>The<b><span> </span><u>Time Quantum</u></b> = 4.</p>
+ <p><span style="line-height:1.5em;"><span><span style="text-decoration:underline;"><br></span></span></span></p>
+ <p><span style="line-height:1.5em;"><span><span style="text-decoration:underline;">Question</span></span></span><span style="line-height:1.5em;">: for this scheduling mechanism, what are the T1, T2, etc. in the Gantt Chart bellow? (<span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">the exact times have to be given for all Ts, however </span>a brief explanation is only necessary for T1 - T4).</span></p>
+ <p><img src="http://moodle.dhbw-mannheim.de/pluginfile.php/130007/mod_forum/post/25996/Question.png" alt="" width="841" height="195" style="vertical-align:text-bottom;margin:0 .5em;" class="img-responsive"><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>P1 gets the first time quantum, but it needs another 20 ms, it is preemed after it. P2 needs only 3 ms, it quits before the time quantum expires, then P3 gets the next quantum for 3 ms, and after that P1 gets 20/4=5 time quantums to finish. Therefore the result is as follows:</p>
+ <p>T1=0; T2=4; T3=7; T4=10; T5=14; T6=18; T7=22; T8=26; T9=30.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>T1=0; T2=4; T3=7; T4=10; T5=14; T6=18; T7=22; T8=26; T9=30;</p>
+ <p>(Time Quantum: The period of time for which a process is allowed to run uninterrupted in a pre-emptive multitasking operating system)</p>
+ <p>P1 is allowed to run for 4 milliseconds as this is the maximum time a process can run for (time quantum)</p>
+ <p>The CPU is then given to the next process (round robin) in the queue (P2) which runs for 3 milliseconds as this is the time it needs to execute.</p>
+ <p>The CPU is then given to P3 which also runs for 3 milliseconds.</p>
+ <p>The CPU then returns to P1 and runs for 4 milliseconds (time quantum)</p>
+ <p>There is nothing else left in the queue other than P1 so the CPU runs P1 until finished.</p>
+ <p><br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you for the answers, they're both correct.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14290">Chapter 7: Deadlock handling</a></td><div class="posting fullpost">
+###  <p>What different methods for <b>handling deadlocks</b> are there?</p>
+ <p> State them and additionally: please describe one of the <b>deadlock recovery schemes</b> with its pain point(s) briefly<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>When handling deadlocks one method is to ensure that the system will never enter a deadlock state. The second one is allowing the system to enter a deadlock state and then recover. The third option is to ignore the problem and pretend that deadlocks never occur in the system; used by most operating systems, including UNIX.</p>
+ <p>One deadlock recovery scheme is Resource Preemption:</p>
+ <p>When preempting resources to relieve deadlock, there are three important issues to be addressed:</p>
+ <p>Selecting a victim - Deciding which resources to preempt from which processes involves many of the same decision criteria outlined above.</p>
+ <p>Rollback - Ideally one would like to roll back a preempted process to a safe state prior to the point at which that resource was originally allocated to the process. Unfortunately it can be difficult or impossible to determine what such a safe state is, and so the only safe rollback is to roll back all the way back to the beginning. ( I.e. abort the process and make it start over. )</p>
+ <p>Starvation - How do you guarantee that a process won't starve because its resources are constantly being preempted? One option would be to use a priority system, and increase the priority of a process every time its resources get preempted. Eventually it should get a high enough priority that it won't get preempted any more.</p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you very much for your correct answer(s) ! You even exceeded my expectation by making it quite detailed.</p>
+ <p><b>Only for completion</b> (version a) <b>or </b>b) was more than sufficient) I am just going to sum it up a bit and explain the other method to recover from deadlock shortly:</p>
+ <p>Please find the extensive information in Silberschatz, 9thEdition, chapter 7.3 (p.322) + chapter 7.7 (p337)<br></p>
+ <p>**********************************<br></p>
+ <p><b>3 ways to handle deadlocks:</b></p>
+ <ul>
+  <li>Make sure that the system will NEVER enter a deadlock state</li>
+  <li>Let the system be allowed to enter a deadlock state and provide means for recovery (termination or preemption)</li>
+  <li>Ignore problem completely, behave as deadlocks never occur in this system (ie. UNIX and other OS)</li>
+ </ul>
+ <p><b>2 ways of recovery from deadlock state:</b></p>
+ <p><i>a) Resource Preemption (details see above)</i><br></p>
+ <ul>
+  <li>Select a victim and try to minimize costs</li>
+  <li>rollback - to be 100% sure full rollback (restart)</li>
+  <li>Starvation - always selecting the same process as victim. Solution: have number of rollbacks as cost factor when selecting victims</li>
+ </ul>
+ <p><i>b) Resource Termination</i></p>
+ <p>2 methods:</p>
+ <ol>
+  <li>Abort all deadlocked processes: deadlocked cycle removed for sure but at high costs</li>
+  <li>Abort one process at a time until cycle, which created deadlocked situation, is eliminated:</li>
+ </ol>
+ <ul>
+  <li>- after each removed process deadlock-detection-algorithm has to run</li>
+  <li>- we have to decide which deadlocked process is terminated (first)</li>
+  <li>Influencing factors to take into account then:<br>- priority ; - completed computation time - how many and what type of resources are used; and many more<br></li>
+ </ul>
+ <p><br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <div class="translated_text">
+  <a target="_blank" href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/everything" class="a-ul-dotted" rel="noreferrer"></a>
+  <p><span style="font-size:12pt;line-height:115%;" lang="en-us" xml:lang="en-us">There is nothing more to complement.</span></p>
+  <br>
+ </div>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14303">Deadlock Process</a></td><div class="posting fullpost">
+###  What can you use to describe a deadlock&nbsp;more precisely?
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>With a&nbsp;directed graph called <span style="line-height:1.5em;">a "system resource-allocation graph".</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>with the <span style="line-height:1.5em;">system resource-allocation graph.<br></span></p>
+ <p><span style="line-height:1.5em;">Example: Here potential Deadlock by circulating dependencies.<br></span></p>
+ <p><span style="line-height:1.5em;"></span><span style="line-height:1.5em;"></span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span style="font-size:12pt;line-height:115%;color:#231F20;" lang="en-us" xml:lang="en-us">Deadlocks can be described by system resource-allocation graph, its shows visual the Deadlock reason and the developer have a god overview.</span><span style="font-size:12pt;line-height:115%;" lang="en-us" xml:lang="en-us"></span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14335">chapter 6 - bounded waiting</a></td><div class="posting fullpost">
+###  <p>Explain briefly the concept of bounded waiting!</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A solution to the critical-section must satisfy these requirements: mutual exclusion, progress and bounded waiting.</p>
+ <p>The meaning of <span><i>bounded waiting</i></span>: There is a bound or limit on the number of times that other processes are allowed to enter their critical sections after a process has made a request to enter its critical section and before that request is granted.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Bounded waiting is a solution to the critical-section problem.<br>There exists a limit on the number of times that other processes are allowed to enter their critical sections after a process has made a request to enter its critical section and before that request is granted.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14310">Chapter 6: Multilevel Queue Scheduling</a></td><div class="posting fullpost">
+###  <p></p>
+ <p><span lang="en-us" xml:lang="en-us">Name and explain the reason of the five Queues by </span><span style="font-size:10pt;line-height:115%;font-family:'HelveticaNeue-MediumExt';color:#231F20;" lang="en-us" xml:lang="en-us">Multilevel Queue Scheduling</span><span lang="en-us" xml:lang="en-us"></span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A multilevel queue scheduling algorithm partitions the ready queue into<br>several separate queues (see below). The processes are permanently assigned to<br>one queue, generally based on some property of the process, such as memory<br>size, process priority, or process type. Each queue has its own scheduling<br>algorithm.<br></p>
+ <p><br></p>
+ <p>(highest priority)<br></p>
+ <p>system processes<br><br>interactive processes<br><br>interactive editing processes<br><br>batch processes<br><br>student processes</p>
+ <p>(lowest priority)<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Processes are prioritized dependent on the resource allocation of the process.<br>Reasons sorted after priority:<br><br>1. System processes<br>2. Interactive processes<br>3. Interactive editing processes<br>4. Batch processes<br>5. Student processes</p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14296">Chapter 6: Multilevel feedback queue scheduler</a></td><div class="posting fullpost">
+###  <p>Name the parameters, that define a multilevel feedback queue scheduler.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>• The number of queues<br>• The scheduling algorithm for each queue<br>• The method used to determine when to upgrade a process to a higher-priority queue<br>• The method used to determine when to demote a process to a lower-priority queue<br>• The method used to determine which queue a process will enter when that process needs service<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>I have nothing to add to Lars' answer.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Lars answer is right! I would have nothing to add to his answer.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14285">Chapter 6: Dining philosopher problem</a></td><div class="posting fullpost">
+###  <p>Briefly describe the principle of the dining philosopher problem.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Wow, that´s a realy good question, I would like to know the answer.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The dining philosopher problem is about the metaphor of 5 philosophers sitting at a round table, each with a bowl of rice in front of them and one single chopstick between two philosophers.</p>
+ <p>The problem is, that if all philosophers want to eat at the same time and first try to grab the left stick and then try to grab the right stick, all right sticks are already grabbed by the philosopher on the right of the stick.</p>
+ <p>So no philosopher is able to eat with one single chopstick and all philosophers starve.</p>
+ <p>This problem is a typical example for a deadlock.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Like Lukas already explained, there are 5 philosophers, who spend their lives thinking and eating.</p>
+ <p>They don't actually interact with their neighbors, occasionally they want to eat their rice (out of a common bowl) with 2 chopsticks.</p>
+ <p><br></p>
+ <p>The problem is that there are only 5 chopsticks and they can only pick up one at a time.</p>
+ <p>So no one of these philosophers is able to eat (because every philosopher needs 2 chop sticks) and they are starving.</p>
+ <p>--&gt; Deadlock and Starvation</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ Like the others also mentioned, we have a group of philosophers (usually 5) who meet up at a table to eat together. Moreover we have forks placed between the philosophers. Philosophers spend their time either eating the meal OR thinking. In order to eat, a philosopher picks up exactly two forks, one on his left, and the other on his right. When he is done eating, he will put his forks down so that his neighbors may use them, and he thinks again.
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Final Answer: Perfect Answers from all of you.</p>
+ <p><br></p>
+ <p></p>
+ <p>The dining philosopher problem is about the metaphor of 5 philosophers sitting at a round table, each with a bowl of rice in front of them and one single chopstick between two philosophers.</p>
+ <p>The problem is, that if all philosophers want to eat at the same time and first try to grab the left stick and then try to grab the right stick, all right sticks are already grabbed by the philosopher on the right of the stick.</p>
+ <p>So no philosopher is able to eat with one single chopstick and all philosophers starve.</p>
+ <p>This problem is a typical example for a deadlock.</p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14280">Ch. 7 - Deadlocks</a></td><div class="posting fullpost">
+###  <p>Please pose the four conditions that have to be hold simultaneously so that a deadlock can arise.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ The four conditions are:
+ <br>
+ <ul>
+  <li>Mutual exclusion: only one process at a time can use a resource<br></li>
+  <li>Hold and wait: a process holding at least one recourse is waiting to acquire additional recourse held by other processes.<br></li>
+  <li>No preemption: a recourse can be released only voluntarily by the process holding it ,after that process has completed its task.<br></li>
+  <li>Circular wait: there are a set of waiting processes such that one process is waiting for a recourse that is held by the next process. that new process is waiting for a recourse that is held by the next and so on. <br></li>
+ </ul>
+ <br>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <ol>
+  <li><span style="color:rgb(0,0,0);line-height:21px;">Mutual exclusion: at least one ressource must be sharable</span><br></li>
+  <li><span style="color:rgb(0,0,0);line-height:21px;">Hold and wait: protocol, which ensures, that a resource requesting process does not hold any resource</span><br></li>
+  <li><span style="color:rgb(0,0,0);line-height:21px;">No preemption: process is waiting for a resource -&gt; all his reserved resources are preempted</span><br></li>
+  <li><span style="color:rgb(0,0,0);line-height:21px;">Circular wait: there are a set of waiting processes such that one process is waiting for a recourse that is held by the next process. that new process is waiting for a recourse that is held by the next and so on.&nbsp;</span><br></li>
+ </ol>
+ <br>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>You are both right. Thank you for providing answers.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14289">Ch5 Transactional Memory</a></td><div class="posting fullpost">
+###  <p>Explain briefly the concept of&nbsp;<b>Transactional Memory</b>.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Transactional memory is a memory concept allowing the system to handle a sequence of read-write operations as an atomic operation. This makes lock mechanism superfluous.</p>
+ <p>Software Transactional Memory (STM) and Hardware Transactional Memory are the two common ways to realize this concept.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Transactional memory is a technology of concurrent thread synchronisation. It simplifies the parallel programming by extracting instruction groups to atomic transactions. Concurrent threads operate paralleled till they start to modify the same memory chunk.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14283">Chapter 6: Semaphores</a></td><div class="posting fullpost">
+###  <p>What is a semaphore? Define the concept briefly.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A semaphore &nbsp;is an integer variable that is&nbsp;<span style="line-height:1.5em;">accessed only through two standard atomic operations: wait() and signal().</span></p>
+ <p>All modifications to the integer value of the semaphore in the wait() and&nbsp;<span style="line-height:1.5em;">signal() operations must be executed indivisibly. That is, when one process </span><span style="line-height:1.5em;">modifies the semaphore value, no other process can simultaneously modify&nbsp;</span><span style="line-height:1.5em;">that same semaphore value.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>as said above, a semaphore is an integer variable that can only be accessed through the atomic operations wait() and signal().</p>
+ <p>Semaphores work so as when one process modifies the semaphore value no other process can modify the semaphore value at the same time.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14305">Chapter 6 Critical Section</a></td><div class="posting fullpost">
+###  <p>What happens in the "<b>Critical section</b>" of a process and what makes it critical?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>In the critical section, the process may be changing common variables, updating a table and/or writing a file. <br></p>
+ <p>It is critical, because when one process is executing in its critical section, no other process is allowed to execute in its critical section. That is, no two processes are executing in their<br>critical sections at the same time.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>In the critical process, a table is updating and variables are changed.<br>When a process reach the critical section no other process can execute.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14342">Ch. 5: Abstract Data Type</a></td><div class="posting fullpost">
+###  <p>Give an definition (in one sentence!) for ADT.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>ADT =abstract data type<br><br>ADT is a data type where the data is combined with some functions that operate on the data, but the functions are independent of how the ADT is implemented.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>An Abstract Data Type (ADT) combines data with a set of functions,&nbsp;<span style="line-height:1.5em;">to operate on this data.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14334">Chapter 7 Deadlock, Hold and Waitt</a></td><div class="posting fullpost">
+###  The question refering to the Deadlock Prevention.
+ <br>What we have to guarantee to ensure that the hold-and-wait condition never occurs in the system ?
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>To avoid that the hold-and-wait condition will never occur in a system in order to prevent deadlock situations, we have to guarantee...</p>
+ <p>...that if a process requests a resource it must not hold any other resources simultaneously.</p>
+ <p><br></p>
+ <p>**********<i>Additional information</i>**********<br></p>
+ <p><i>This can be achieved via two protocols:</i></p>
+ <p><i>a) A process has to request all of its needed resources and have them allocated before it is allowed to start execution. [via preceding resource requesting system calls]<br></i></p>
+ <p><i>b) A process is only allowed to make a resource request, when he currently has not a single resource.</i></p>
+ <p><i><b>Main disadvantages for both protocols:</b></i></p>
+ <p><i>-low resource utilization (resources allocated before start, but unused for long period)<br></i></p>
+ <p><i>- starvation is possible (when a process needs popular resources)</i><br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ You have to avoid a situtation where two (or more) processes are waiting&nbsp;for an event that can caused only by one of the waiting processes.
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14286">Atomic Transactions</a></td><div class="posting fullpost">
+###  <p>What are Atomic transactions(Atomicity) ? Explain very briefly.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost"> 
+ <p style="margin:0cm 0cm 8pt;"><span lang="en" xml:lang="en">An atomic transaction is only completed when all operations are finished. If not the operations must be aborted and rolled back.</span></p> 
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14293">Chapter 6 - Sheduler</a></td><div class="posting fullpost">
+###  <p>What does the CPU Sheduler do? <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span style="line-height:1.5em;">The CPU scheduler decides which of the ready, in-memory processes is to be executed (allocated a CPU) after a clock interrupt, an I/O interrupt, an operating system call or another form of signal.&nbsp;<span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:18px;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">This can have a big effect on resource utilization and the overall performance of the system.</span> This scheduler can be preemptive, implying that it is capable of forcibly removing processes from a CPU when it decides to allocate that CPU to another process, or non-preemptive (also known as "voluntary" or "co-operative"), in which case the scheduler is unable to "force" processes off the CPU.</span><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A CPU scheduler selects from among the processes in ready queue, and allocates the CPU to one of them. This queue may be ordered in many ways (FCFS, SJF, Priority Scheduling, RR, etc).</p>
+ <p>Scheduling algorithm optimization criteria:</p>
+ <p></p>
+ <ul>
+  <li>max CPU utilization</li>
+  <li>max Throughput</li>
+  <li>min Turnaround time</li>
+  <li>min Waiting time</li>
+  <li>min Response time</li>
+ </ul>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Your answers are perfectly right. Thanks a lot!<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14311">Chapter 7 - Preemtion</a></td><div class="posting fullpost">
+###  <p>Please describe the term preemtion in the CPU scheduling environment.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Preemptive scheduling describes the act of temporarily interrupting a task whithout the task's cooperation and resuming to it later.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>In general scheduling is preemptive.</p>
+ <p>Exceptions:</p>
+ <p></p>
+ <ul>
+  <li><span style="line-height:1.5em;font-size:12px;">process switches from running to waiting state</span><br></li>
+  <li><span style="line-height:1.5em;font-size:12px;">process switches from running to ready state</span><br></li>
+  <li><span style="line-height:1.5em;font-size:12px;">process switches from waiting to ready</span><br></li>
+  <li><span style="line-height:1.5em;font-size:12px;">process terminates&nbsp;</span><br></li>
+ </ul>
+ <p><br></p>
+ <p>It's used by Microsoft Windows - since the Windows-Version 95.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14300">(non-) preemptive scheduling decisions</a></td><div class="posting fullpost">
+###  <p>Please distinguish the following process state switches into non- and preemptive ones and explain <b>briefly</b> (short sentence) what non-preemptively switching means.<br></p>
+ <p></p>running to waitingterminating the processwaiting to ready
+ <br>running to ready
+ <br>
+ <br>
+ <br>
+ <br>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>running to waiting - nonpreemptive<br>terminating - nonpreemptive<br>waiting to ready - preemptive<br>running to ready - preemptive<br></p>
+ <p>"Under nonpreemptive scheduling,</p>
+ <p>once the CPU has been allocated to a process, the process keeps the CPU until it releases the CPU</p>
+ <p>either by terminating or by switching to the waiting state." -&nbsp;5.1.3 Preemptive Scheduling</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14294">Deadlocks and safe states</a></td><div class="posting fullpost">
+###  <p>What are the basic facts on safe states? (there are three of them)<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:100%;">- A state is safe if the system can allocate resources to each process (up to its maximum) in some order and still avoid a deadlock</span>
+ <br>
+ <p>- A safe state is not a deadlock state</p>
+ <p>- As long as the state is safe, the operating system can avoid unsafe (and deadlocked) states</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span style="color:rgb(102,102,102);font-family:Helvetica, Arial, sans-serif;font-size:100%;"> </span>-in a safe state, the system is protected by the OS, because it prevents the system from an unsfafe state, like an deadlock situation. That also means that the safe state is not a deadlock state. Also the system is able to allocate all resources for every process (without running in a deadlock situation) when it's in safe state.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14299">Capter 5 - Domain of Protection - need-to-know principle</a></td><div class="posting fullpost">
+###  <p>Briefly describe the need-to-know principle. What is it useful for?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ I apologize for picking a question out of Chapter 14, I looked in "Part Five Protection and Security" instead of "Chapter five".
+ <br>Since we have no answer yet, I will ask a new question:
+ <p><br></p>
+ <p>Chapter 5:</p>
+ <p><br></p>
+ <p><b>What is a cooperating process</b> and <b>what can</b> several of these <b>cooperating processes</b> <b>share with each other</b>?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A cooperating process is one that can affect or be affected by other processes</p>
+ <p>executing in the system. Cooperating processes can either directly share a</p>
+ <p>logical address space (that is, both code and data) or be allowed to share data</p>
+ <p>only through files or messages.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14297">Chapter 6 </a></td><div class="posting fullpost">
+###  <p>Another component involved in the CPU-scheduling function is the <b>dispatcher</b>.<br></p>
+ <p>Was does the dispatcher do and what is the dispatch latency?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;"><span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;">The dispatcher is the module that gives control of the <span style="font-family:'Palatino-Roman';font-size:9pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;">CPU&nbsp;<span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;">to the process selected&nbsp;<span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;">by the short-term scheduler&nbsp;</span></span></span></span>and has the following functions:</span></p>
+ <p><span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;">1. switching context</span></p>
+ <p><span style="font-size:14.6667px;">2. switching to user mode</span></p>
+ <p><span style="font-size:14.6667px;">3.&nbsp;<span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;">Jumping to the proper location in the user program to restart that program<br style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;"></span></span></p>
+ <p><span style="font-size:14.6667px;"><span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;"><br></span></span></p>
+ <p><span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;">The amount of time required for the scheduling dispatcher to stop one&nbsp;<span style="font-family:'Palatino-Roman';font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;">process and start another is known as <b>dispatch latency</b></span></span></p>
+ <p></p>
+ <p><span style="font-size:14.6667px;"><b><br></b></span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>I agree!<br></p>
+ <p>I can only highlight that the dispatcher should be as fast as possible, since it is invoked during every process switch. During the context switches, the processor is idle for a fraction of time. Hence, unnecessary context switches should be avoided. The time it takes for the dispatcher to stop one process and start another running is known as the dispatch latency!<strong></strong><strong></strong><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14301">Chapter 6 - Log</a></td><div class="posting fullpost">
+###  <p></p>
+ <p style="margin-top:4.32pt;margin-bottom:0pt;text-align:left;vertical-align:baseline;"><span style="font-size:12pt;font-family:'Lucida Grande';color:#000000;">Describe briefly why the usage of checkpoints</span><span style="font-size:12pt;font-family:'Lucida Grande';color:#000000;vertical-align:baseline;"> for the log is useful and the checkpoint scheme.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Checkpoints shorten the log, therefore they prevent the recovery time from becoming too long.</p>
+ <p>The checkpoint scheme first outputs all records, then all modified data from volatile storage to stable storage. In the end, it outputs a record &lt;checkpoint&gt; to the log on stable storage.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p>I have to agree Lukas. <br></p>
+ <p>The main points are the support of helping to prevent the recovery time to don`t go on too long and moerover the shortening.</p>
+ <p>I have nothing more to add<br></p>
+ <p><br></p>
+ <p><br></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14284">Deadlocks and Starvation</a></td><div class="posting fullpost">
+###  <p>What is the difference between a deadlock and starvation? Explain both concepts briefly.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <h5>Deadlock refers to the situation when processes are stuck in circular waiting for the resources. On the other hand, starvation occurs when a process waits for a resource indefinitely. Deadlock implies starvation but starvation does not imply deadlock.</h5>Deadlock refers to the situation when processes are stuck in circular waiting for the resources.
+ <p>Starvation occurs when a process waits for a resource indefinitely.</p>
+ <p>-&gt; deadlock implies starvation but starvation doesn´t imply deadlock<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <pre><span style="color:rgb(0,0,0);font-family:verdana, sans-serif;font-size:13.05px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">In a multi-programming environment, several processes may compete for a finite number of resources. A process requests resources; if the resources are not available at that time, the process enters a waiting state. Sometimes, a waiting process is never again able to change state, because the resources it has requested are held by other waiting processes. This situation is called a </span><span style="color:rgb(0,0,0);font-family:verdana, sans-serif;font-size:13.05px;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);"><b>deadlock</b></span><span style="color:rgb(0,0,0);font-family:verdana, sans-serif;font-size:13.05px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);">. On the other hand, </span><span style="color:rgb(0,0,0);font-family:verdana, sans-serif;font-size:13.05px;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;background-color:rgb(255,255,255);"><b>starvation </b>occurs when a process waits for a resource indefinitely.&nbsp;</span></pre>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>both answers are correct, thanks.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14308">Chapter 7 - Resource Allocation</a></td><div class="posting fullpost">
+###  Describe briefly the facts that are shown in the attachement.
+ <br>
+ <br>For what do the single parts (R1, P1 etc.) stand for and what makes the main difference between the two graphs?
+ <br>
+ <div class="attachedimages">
+  <br>
+  <img src="http://moodle.dhbw-mannheim.de/pluginfile.php/130007/mod_forum/attachment/26020/Pi1.JPG" alt="">
+  <br>
+  <img src="http://moodle.dhbw-mannheim.de/pluginfile.php/130007/mod_forum/attachment/26020/Pi2.JPG" alt="">
+ </div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p> </p>
+ <h3><span style="font-size:14pt;line-height:115%;"> </span></h3>
+ <p style="margin:0cm 0cm 10pt;"></p> 
+ <p> <b></b><i></i><u></u><sub></sub><sup></sup>
+  <strike></strike>The two figures both represent resource-allocation graphs. P stands for all the active processes in the system, R represents all resource types. The first diagram shows resource allocation with a deadlock, in contrast, there is no deadlock in the second graph.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Correct, well done!<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14298">Ch 7: is there a deadlock?</a></td><div class="posting fullpost">
+###  <img src="http://moodle.dhbw-mannheim.de/pluginfile.php/130007/mod_forum/post/26009/Silberschatz%20Chapter%207%20Deadlock.png" alt="When you can't see the picture: Lecture 7, page 11" style="vertical-align:text-bottom;margin:0 .5em;" class="img-responsive" height="583" width="432">
+ <br>
+ <br>
+ <br>Question: Does the picture show a
+ <b> deadlock situation?</b> When there is one, please describe why.
+ <br>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><b><span lang="en-us" xml:lang="en-us"></span></b></p>
+ <p><b><span lang="en-us" xml:lang="en-us">Yes</span></b><span lang="en-us" xml:lang="en-us">, there is a deadlock situation.</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">P2 (Process 2) accesses data from R2 (Resource 2) or from R1. R1 gets its instance from P1’s execution. P1 is dependent on R2, the same resource as P2 is hinged on.</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">P2 executes and provides data for R3. This resource, whose instance as I described depends on the execution of P2, is the data source for P3. If P3 has access to its needed instance from R3, it establishes the instance in R2 that is needed for P2’s execution directly or indirectly via P1 and R1.</span></p> 
+ <p><span lang="en-us" xml:lang="en-us">As you can see, there is a cycle in this system. Because P2 needs the instance(s) P3 generates and P3 is dependent on the outcome of P2, a deadlock situation occurs/can occur here.</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Yes, there is a deadlock situation.&nbsp;</p>
+ <p>The execution of P2 depends on the data generated by the execution of P3 (= R2). The execution of P3 however depends on the data generated by the execution of P2 (= R2). That is why a deadlock occurs.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14281">Multiple-processor Scheduling </a></td><div class="posting fullpost">
+###  <p>Name and explain the 2 approaches to multiple-processor scheduling.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>One approach to CPU scheduling in a multiprocessor system has all scheduling decisions, I/O processing, and other system activities handled by a single<br>processor—the master server. The other processors execute only user code. This asymmetric multiprocessing is simple because only one processor<br>accesses the system data structures, reducing the need for data sharing.</p>
+ <p><br></p>
+ <p><br></p>
+ <p>A second approach uses symmetric multiprocessing (SMP), where each processor is self-scheduling. All processes may be in a common ready queue, or each processor may have its own private queue of ready processes. Regardless, 280 Chapter 6 CPU Scheduling scheduling proceeds by having the scheduler for each processor examine the<br>ready queue and select a process to execute.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>1. <b>Asymmetric multiprocessing</b>: one processor accesses the system data structures, alleviating the need for data sharing.</p>
+ <p>2. <b>Symmetric multiprocessing</b>: each processor is self-scheduling, either all processes are in one common ready queue or each processor has its own; most common and currently used</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14314">ch 7: Deadlocks</a></td><div class="posting fullpost">
+###  <br>
+ <br>
+ <img src="http://moodle.dhbw-mannheim.de/pluginfile.php/130007/mod_forum/post/26026/Capture.PNG" alt="" style="vertical-align:text-bottom;margin:0 .5em;" class="img-responsive" height="300" width="322">
+ <br>
+ <br>
+ <br>Please decide whether there is a deadlock or not and explain your answer.
+ <br>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ There is no deadlock because P4 can release its instance of R2 thus P3 can get access to that instance of R2.
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Quynh's answer should be correct.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14277">Ch. 5 Pthreads Synchronization</a></td><div class="posting fullpost">
+###  <p>Which parameteres are passed in the sem init() function?<span style="font-family:CMTT10;font-size:11pt;color:rgb(35,31,32);font-style:normal;font-variant:normal;"><br style="font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;"></span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The sem init() function is passed three parameters:</p>
+ <p>1. A pointer to the semaphore</p>
+ <p>2. A flag indicating the level of sharing</p>
+ <p>3. The semaphore’s initial value</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>1. parameter: specifies the semaphore to be initialized<br>2. parameter: specifies whether or not the newly initialized semaphore is shared between processes or between threads<br>3. parameter: specifies the value to assign to the newly initialized semaphore<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14304">Chapter 5 - Process Scheduling Basic Concepts</a></td><div class="posting fullpost">
+###  <p>Explain briefly the working mechanism of the CPU-I/O Burst Cycle.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Process execution consists of a cycle of CPU execution and I/O wait. Processes alternate between these two states. Process execution begins with a CPU burst.<br>That is followed by an I/O burst, which is followed by another CPU burst, then anotherI/O burst, and so on. Eventually, the final CPU burst ends with a system<br>request to terminate execution<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14306">What's a race condition?</a></td><div class="posting fullpost">
+###  <p>Define the word: "race condition".</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" xml:lang="en-us" lang="en-us">A <b>race condition</b> is a situation, in which several processes access and manipulate the same data concurrently and in which the outcome of the execution depends on the particular order in which they access the data.</span><span xml:lang="en-us" lang="en-us"></span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ I agree with Richard Markus Herrmanns answer and would like to add, that this is a typical producer consumer problem that can be solved with process synchronization.
+ <br>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14291">Chapter 5 - Scheduling Criteria</a></td><div class="posting fullpost">
+###  <p>Name and briefly describe the <b>five scheduling criteria</b>.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><b>CPU utilization.</b> Conceptually, CPU utilization can range from 0 to 100 percent. In a real system, it should range from 40 percent (for a lightly loaded system) to 90 percent (for a heavily loaded system).<br><br><b>Throughput.</b> If the CPU is busy executing processes, then work is being done. One measure of work is the number of processes that are completed per time unit, called throughput.<br><br><b>Turnaround time.</b> The interval from the time of submission of a process to the time of completion is the turnaround time. Turnaround time is the sum of the periods spent waiting to get into memory, waiting in the ready queue, executing on the CPU, and doing I/O.<br><br><b>Waiting time.</b> Waiting time is the sum of the periods spent waiting in the ready queue.<br><br><b>Response time.</b> Response time, is the time it takes to start responding, not the time it takes to output the response. <br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+  CPU utilization: the CPU should be kept as busy as possible
+ <br>Throughput: number of processes that complete their execution per time unit
+ <br>Turnaround time: Is the amount of time to execute a particular process
+ <br>Waiting time: Waiting time is the amount of time a process has been waiting in the ready queue
+ <br>Response time: response time is the amount of time it takes from when a request was submitted until the first response is produced, not output (for time sharing environment)
+ <br>
+ <br>
+ <span style="font-size:20pt;"></span>
+ <span style="font-size:20pt;"></span>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14333">Dispatcher</a></td><div class="posting fullpost">
+###  <p>Describe briefly what a dispatcher is and what it does.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The dispatcher is the module that gives control of the CPU to the process selected by the short-term scheduler.&nbsp;</p>
+ <p>Its functions include: switching context, s<span style="line-height:1.5em;">witching to user mode, j</span><span style="line-height:1.5em;">umping to the proper location in the user program to restart that program&nbsp;</span></p>
+ <p>Its main goal is to act as fast as possible, since it is invoked during every process switch.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The dispatcher is the module that gives control of the CPUto the process selected&nbsp;<span style="line-height:1.5em;">by the short-term scheduler. This function involves the following:</span></p>
+ <p>• Switching context</p>
+ <p>• Switching to user mode</p>
+ <p>• Jumping to the proper location in the user program to restart that program</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14307">Chapter 6 - Scheduling Algorithms</a></td><div class="posting fullpost">
+###  <p>There are various CPU-scheduling algorithms.</p>
+ <p>Please name and describe two of them.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><b>First-Come, First-Served Scheduling:</b> With this scheme, the process that requests the CPU first is allocated the CPU first. The implementation of the FCFS policy is easily managed with a FIFO queue. When a process enters the ready queue, its PCB is linked onto the tail of the queue. When the CPU is free, it is allocated to the process at the head of the queue. The running process is then removed from the queue. The code for FCFS scheduling is simple to write and understand.</p>
+ <p><b>Shortest-Job-First Scheduling: </b>This algorithm associates with each process the length of the process’s next CPU burst. When the CPU is available, it is assigned to the process that has the smallest next CPU burst. If the next CPU bursts of two processes are the same, FCFS scheduling is used to break the tie.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14273">Ch. 5 - Solution to the critical-section problem</a></td><div class="posting fullpost">
+###  <p></p>
+ <p><span xml:lang="en-us" lang="en-us">Which <i>requirements</i> must a solution to the <u>critical-section problem</u> satisfy?</span></p> 
+ <p><b><span xml:lang="en-us" lang="en-us">Name</span></b><span xml:lang="en-us" lang="en-us"> those three and <b>describe</b> them briefly.</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Mutual Exclusion: if one process executin in its critical section, no other processes can be executing in there critical sections</p>
+ <p>Progress:<span lang="en-us" xml:lang="en-us">if no process is executing in its critical section and there exist some processes that wish to enter their critical section, then the selection of the processes that will enter the critical section next cannot be postponed indefinitely <br></span></p>
+ <p><span lang="en-us" xml:lang="en-us"></span></p>
+ <p><span lang="en-us" xml:lang="en-us">Bounded Waiting: must exist on the number of times that other processes are allowed to enter their critical sections after a process has made a request to enter its critical section and before that request is granted.</span></p>
+ <br>
+ <p><span lang="en-us" xml:lang="en-us"><br></span></p>
+ <p><br><span lang="en-us" xml:lang="en-us"></span></p>
+ <p><span lang="en-us" xml:lang="en-us"><br></span></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14302">Chapter 5: Unix deadlock handling</a></td><div class="posting fullpost">
+###  <p>Please explain briefly the way UNIX systems prevent and handle deadlocks.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14332">Ch. 8 - Basic idea of swapping</a></td><div class="posting fullpost">
+###  <p></p>
+ <p><b><span xml:lang="en-us" lang="en-us">Explain</span></b><span xml:lang="en-us" lang="en-us"> the <i>basic idea</i> of <i>swapping</i> briefly.</span></p> 
+ <p><b><span xml:lang="en-us" lang="en-us">What</span></b><span xml:lang="en-us" lang="en-us"> is the <i>benefit</i> regarding to this idea?</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14309">Chapter 9: secondary memory</a></td><div class="posting fullpost">
+###  What is the secondary memory in the context of virtualization?
+ <br>
+ <br>read page 404 (not found) for more information about the topic :)
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
