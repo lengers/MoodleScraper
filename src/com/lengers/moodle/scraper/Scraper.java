@@ -21,6 +21,8 @@ public class Scraper {
 	public static void main(String[] args) throws UnsupportedEncodingException, FileNotFoundException {
 		// TODO Auto-generated method stub
 
+		// download(null, null, null);
+
 		if (args.length < 1) {
 			help();
 		} else if (args[0].contains("-h")) {
@@ -63,7 +65,7 @@ public class Scraper {
 
 			for (Iterator<Element> iterator = links.iterator(); iterator.hasNext();) {
 				Element element = iterator.next();
-				if (element.text().contains("Exam")) {
+				if (element.text().contains("Exam Questions")) {
 					String followLink = element.attributes().get("href");
 					Document followDoc = Jsoup.connect(followLink).cookies(loginCookies).get();
 
