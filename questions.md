@@ -3752,11 +3752,518 @@
 </div>
 ---
 
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14388">Chapter 9 - Virtual Adress Space</a></td><div class="posting fullpost">
+###  <p>What do you know about the Virtual Adress Space of a Process?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <div style="margin-top:5.76pt;margin-bottom:0pt;margin-left:.29in;text-indent:-.29in;vertical-align:baseline;">
+  The virtual address space refers to the logical (or virtual) view&nbsp;
+  <span style="text-indent:-.29in;font-size:12px;line-height:1.4;">of how a process is stored in memory.</span>
+ </div>
+ <p><br></p>
+ <p>Enables sparse address spaces with holes left for growth, dynamically linked libraries, etc.</p>
+ <p>System librariers shared via mapping into virtual adress space</p>
+ <p>shared memory by mapping pages read-write into virtual address space</p>
+ <p>pages can be shared during fork(), speeding process creation</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Entire sections of virtual address space are frequently unused, and<br>multilevel page tables have no entries for these spaces, greatly decreasing the<br>amount of memory needed to store virtual memory data structures.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14403">Chapter 8: Swapping time</a></td><div class="posting fullpost">
+###  <p>Given a process 100 MB in size, and a default hard disk to swap to with a transfer rate of 50 MB per second, what is the overall swapping time?<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Considering that the time that is needed for the swap is: (size/transferrate) and this into the swap and out again (means *2) the time that is needed for this example is 4 seconds.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14392">8: Paging</a></td><div class="posting fullpost">
+###  <p>&nbsp;Briefly explain <b>paging</b>.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span lang="en-us" xml:lang="en-us"><a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/With" target="_blank" rel="noreferrer"><span style="text-decoration:none;">With</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/the" target="_blank" rel="noreferrer"><span style="text-decoration:none;">the</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/Paging" target="_blank" rel="noreferrer"><span style="text-decoration:none;">paging</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/are" target="_blank" rel="noreferrer"><span style="text-decoration:none;">are</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/distinguished" target="_blank" rel="noreferrer"><span style="text-decoration:none;">distinguished</span></a> b<a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/etween" target="_blank" rel="noreferrer"><span style="text-decoration:none;">etween</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/logical" target="_blank" rel="noreferrer"><span style="text-decoration:none;">logical</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/addresses" target="_blank" rel="noreferrer"><span style="text-decoration:none;">addresses</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/and" target="_blank" rel="noreferrer"><span style="text-decoration:none;">and</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/physical" target="_blank" rel="noreferrer"><span style="text-decoration:none;">physical</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/addresses" target="_blank" rel="noreferrer"><span style="text-decoration:none;">addresses</span></a>. <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/The" target="_blank" rel="noreferrer"><span style="text-decoration:none;">The</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/logical" target="_blank" rel="noreferrer"><span style="text-decoration:none;">logical</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/address" target="_blank" rel="noreferrer"><span style="text-decoration:none;">address</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/space" target="_blank" rel="noreferrer"><span style="text-decoration:none;">space</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/describes" target="_blank" rel="noreferrer"><span style="text-decoration:none;">describes</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/the" target="_blank" rel="noreferrer"><span style="text-decoration:none;">the</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/organisation" target="_blank" rel="noreferrer"><span style="text-decoration:none;">organization</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/of" target="_blank" rel="noreferrer"><span style="text-decoration:none;">of</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/the" target="_blank" rel="noreferrer"><span style="text-decoration:none;">the</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/main" target="_blank" rel="noreferrer"><span style="text-decoration:none;">main</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/storage" target="_blank" rel="noreferrer"><span style="text-decoration:none;">storage</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/from" target="_blank" rel="noreferrer"><span style="text-decoration:none;">from</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/program" target="_blank" rel="noreferrer"><span style="text-decoration:none;">program</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/view" target="_blank" rel="noreferrer"><span style="text-decoration:none;">view</span></a>. <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/The" target="_blank" rel="noreferrer"><span style="text-decoration:none;">The</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/physical" target="_blank" rel="noreferrer"><span style="text-decoration:none;">physical</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/address" target="_blank" rel="noreferrer"><span style="text-decoration:none;">address</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/space" target="_blank" rel="noreferrer"><span style="text-decoration:none;">space</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/is" target="_blank" rel="noreferrer"><span style="text-decoration:none;">is</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/given" target="_blank" rel="noreferrer"><span style="text-decoration:none;">given</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/by" target="_blank" rel="noreferrer"><span style="text-decoration:none;">by</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/the" target="_blank" rel="noreferrer"><span style="text-decoration:none;">the</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/really" target="_blank" rel="noreferrer"><span style="text-decoration:none;">really</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/available" target="_blank" rel="noreferrer"><span style="text-decoration:none;">available</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/main" target="_blank" rel="noreferrer"><span style="text-decoration:none;">main</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/memory" target="_blank" rel="noreferrer"><span style="text-decoration:none;">memory</span></a>. <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/The" target="_blank" rel="noreferrer"><span style="text-decoration:none;">The</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/translation" target="_blank" rel="noreferrer"><span style="text-decoration:none;">translation</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/from" target="_blank" rel="noreferrer"><span style="text-decoration:none;">from</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/logical" target="_blank" rel="noreferrer"><span style="text-decoration:none;">logical</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/in" target="_blank" rel="noreferrer"><span style="text-decoration:none;">in</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/physical" target="_blank" rel="noreferrer"><span style="text-decoration:none;">physical</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/addresses" target="_blank" rel="noreferrer"><span style="text-decoration:none;">addresses</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/is" target="_blank" rel="noreferrer"><span style="text-decoration:none;">is</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/finished" target="_blank" rel="noreferrer"><span style="text-decoration:none;">finished</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/by" target="_blank" rel="noreferrer"><span style="text-decoration:none;">by</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/the" target="_blank" rel="noreferrer"><span style="text-decoration:none;">the</span></a> <a href="http://de.pons.com/%C3%BCbersetzung/englisch-deutsch/Paging" target="_blank" rel="noreferrer"><span style="text-decoration:none;">paging</span></a>.</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14372">Chapter 9: Forms of Replacement / Process Allocation</a></td><div class="posting fullpost">
+###  <p>Please name the two different forms of Replacement!<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span style="font-size:10pt;line-height:115%;font-family:'HelveticaNeue-MediumExt';color:#231F20;" lang="en-us" xml:lang="en-us">The LRU Page Replacement have the Counters and the Stack for replacement </span><span lang="en-us" xml:lang="en-us"></span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14396">Objectives of virtual memory?</a></td><div class="posting fullpost">
+###  <p>What are the objectives of virtual memory?<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Basically, virtual memory shall separate physical memory from user logical memory.</span></p> 
+ <p><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Moreover, this main objective can be specified by the following aims of virtual memory:</span></p> 
+ <ul>
+  <li><span style="font-size:10.5pt;line-height:107%;font-family:Symbol;color:#231F20;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Only parts of the program need to be in memory for execution</span></li>
+  <li> <br></li>
+  <li><span style="font-size:10.5pt;line-height:107%;font-family:Symbol;color:#231F20;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Logical address space can be much larger than physical address space</span></li>
+  <li> <br></li>
+  <li><span style="font-size:10.5pt;line-height:107%;font-family:Symbol;color:#231F20;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Allows address spaces to be shared by several processes</span></li>
+  <li> <br></li>
+  <li><span style="font-size:10.5pt;line-height:107%;font-family:Symbol;color:#231F20;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Allows more efficient process creation</span></li>
+  <li> <br></li>
+  <li><span style="font-size:10.5pt;line-height:107%;font-family:Symbol;color:#231F20;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">More programs can run concurrently</span></li>
+  <li> <br></li>
+  <li><span style="font-size:10.5pt;line-height:107%;font-family:Symbol;color:#231F20;" lang="en-us" xml:lang="en-us">·<span style="font:7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Less I/O needed in order to load or swap processes</span></li>
+ </ul>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Because my 2. person (<strong><a href="http://moodle.dhbw-mannheim.de/user/view.php?id=21997&amp;course=3291">Anna Bernáth</a></strong>) didn´t ask a question yet, I answer the question from the next person (this one).</p>
+ <p>I agree to <a href="http://moodle.dhbw-mannheim.de/user/view.php?id=22545&amp;course=3291">Richard Markus Herrmann</a>s answer and would like to add the following:<br></p>
+ <p>Only the needed part of a programm is in main memory and the rest is outsourced in virtual memory.<br>So it´s possible to run programms (processes) that are bigger then the physical memory.</p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
 ## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14332">Ch. 8 - Basic idea of swapping</a></td><div class="posting fullpost">
 ###  <p></p>
  <p><b><span xml:lang="en-us" lang="en-us">Explain</span></b><span xml:lang="en-us" lang="en-us"> the <i>basic idea</i> of <i>swapping</i> briefly.</span></p> 
  <p><b><span xml:lang="en-us" lang="en-us">What</span></b><span xml:lang="en-us" lang="en-us"> is the <i>benefit</i> regarding to this idea?</span></p>
  <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The basic idea behind swapping is&nbsp;that a <span>(</span><span>paused)<b> process</b></span> can be <b>swapped temporarily</b> <b>out of memory</b> to a <b>backing store</b> and then be&nbsp;<b>brought back into memory</b> for <b>continued execution</b> instead of blocking/reserving resources.<br><br>The big benefit of swapping is the <b>increase of multiprogramming</b> of a system by&nbsp;allowing the total <b>physical address space</b> of all processes to <b>exceed</b> the <b>real physical memory</b> of the system.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><i><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Correct!</span></i></p> 
+ <p><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Basically, a process must be located in memory for execution. A process can be swapped out from memory into a backing store. If this process’s execution should be continued, it can be swapped into memory again.</span></p> 
+ <p><span style="font-size:10pt;" lang="en-us" xml:lang="en-us">Because of swapping, it is possible for all physical address spaces of all processes to exceed the real physical memory of the system. Swapping can increase the degree of multiprogramming in a system.</span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14375">Ch. 8: Address Binding </a></td><div class="posting fullpost">
+###  <p></p>
+ <p><span lang="en-us" xml:lang="en-us">Address binding of instructions and data to memory addresses can happen at three different stages.&nbsp;</span><span lang="en-gb" xml:lang="en-gb"></span></p>
+ <p><span lang="en-us" xml:lang="en-us">Name and describe these stages briefly.&nbsp;</span></p>
+ <br>
+ <h3></h3>
+ <div style="margin-top:5.76pt;margin-bottom:0pt;margin-left:.29in;text-indent:-.29in;text-align:left;vertical-align:baseline;">
+  <br>
+ </div>
+ <div style="margin-top:5.76pt;margin-bottom:0pt;margin-left:.29in;text-indent:-.29in;text-align:left;vertical-align:baseline;">
+  <br>
+ </div>
+ <br>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><b><span>- Compile time</span></b>: &nbsp;If memory location known a priori, absolute code can be generated; must recompile code if starting location changes</p>
+ <p><span><b>- Load time: &nbsp;</b></span>Must generate relocatable code if memory location is not known at compile time</p>
+ <p><b>- Execution time: &nbsp;</b>Binding delayed until run time if the process can be moved during its execution from one memory segment to another</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Your answer is correct.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14399">Ch9 Thrashing</a></td><div class="posting fullpost">
+###  What is 
+ <b>Thrashing?</b>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <div style="margin-top:5.76pt;margin-bottom:0pt;margin-left:.29in;text-indent:-.29in;text-align:left;vertical-align:baseline;">
+  <b style="line-height:150%;text-indent:-18pt;"><span lang="en-us" xml:lang="en-us">Thrashing</span></b>
+  <span lang="en-us" style="line-height:150%;text-indent:-18pt;" xml:lang="en-us">&nbsp;=</span>
+  <span lang="en-us" style="line-height:150%;text-indent:-18pt;" xml:lang="en-us">&nbsp;process is busy swapping pages in and out.</span>
+ </div>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Wonderful, Carolin. Your answer is correct. Thank you!</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Sorry for the late answer. &nbsp;thrashing occurs when a computer's virtual memory subsystem is in a constant state of paging, rapidly exchanging data in memory for data on disk<span style="font-size:16px;line-height:19.2px;">.</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14404">Dynamically linked libraries</a></td><div class="posting fullpost">
+###  <p>What is a&nbsp;Dynamically linked librarie?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Dynamically linked libraries are system libraries that are linked to user programs when the programs are run.</p>
+ <p>Dynamic linking, in contrast, is similar to dynamic loading but some operating systems only support static linking.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>I have nothing to add to Eric's answer.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14394">Physical and logical address space</a></td><div class="posting fullpost">
+###  <p>Whats the difference of logical and physical address space and is it the same size?</p>
+ <p>Don´t write an exam!<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <b>Logical address </b>space is the set of all logical addresses generated by a program.It is generated by the CPU; also referred to as virtual address.
+ <br>
+ <br>
+ <b><br>Physical address</b> space is the set of all physical addresses generated by a program. Its address seen by the memory unit.
+ <br>
+ <br>
+ <b><br>logical (virtual) and physical addresses</b> differ in execution-time address-binding scheme
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><b>Logical address</b> (also called virtual address) is <b>generated by the CPU</b>.<br><br><b>Physical adress</b> is the adress <b>seen by the memory unit</b>.<br><br>They <b>differ in execution time</b> and they <b>have to be mapped</b>, because the user program only sees the logical address whereas the memory unit sees the physical address, this is done by the <b>memory-management unit (MMU)</b>.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you for your correct answers.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14391"> Chapter 8 : Shared Libraries</a></td><div class="posting fullpost">
+###  What is a shared library? Please give a short explanation
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A shared library is a library that is loaded by a program when it starts. If a library is installed properly. all programs that are going to start afterwards use this new shard library.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A dynamically linked library can also be shared which means, that every program in main memory can access the library. This helps saving memory space, reduces loading time and helps in terms of compatibility to new library versions.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you for your answer. Additional to what you said i want to mention, that other programs linked before the new library was installed will continue using the older library.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14426">Android and swapping</a></td><div class="posting fullpost">
+###  Android does not support swapping.
+ <br>Which alternative Android is using ?
+ <br>
+ <br>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14389">Chapter 8 : static vs. dynamic linking (libraries)</a></td><div class="posting fullpost">
+###  <p><b>Briefly describe</b> the <b>difference</b> between <b>static</b> and <b>dynamic linking</b> (of libraries). What are the <b>advantages</b><b> of dynamic linking</b>?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Static linking:<br><span style="line-height:1.5em;">system language libraries are treated&nbsp;</span><span style="line-height:1.5em;">like any other object module and are combined by the loader into the binary&nbsp;program image.</span><br><span style="line-height:1.5em;">Dynamic linking:</span><br>Loading is postponed until execution time. Advantage is that without dynamic linking&nbsp;each program on a system must include a copy&nbsp;<span style="line-height:1.5em;">of its language library</span></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ Correct answer, Tobi!
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14384">CH.8 Shared Pages</a></td><div class="posting fullpost">
+###  Please briefly describe the concept of 
+ <b>Shared Pages</b> (Shared Code) and state the 
+ <b>benefit(</b>s). 
+ <br>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Page sharing allows the system to share common code. Every process (two or more) has a list of registers (page table) and data storage. The Common code of the processes has to be stored only ones in the physical memory (Instead of writing same code in physical memory several times). Important is, that the code must be reentrant and in read-only mode.<br><br>Page sharing allows us to save data-space (and i think also time, because the data has to be written in physical memory only ones).<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ Thank you for your correct answer Alexander !
+ <br>I am going to repeat and sum it up a bit:
+ <br>
+ <br>***Please find further information in Silberschatz 9th edition, chapter: 8 p 376f.**********************
+ <br>
+ <br>The shared pages concept allows multiple processes to share common code. The processes keep their own copy of registers and data storage since data is usually different to data of other processes, the code with the instructions however can be shared (if it is reentrant / pure code) and two or more processes can execute the same code simultaneously. 
+ <br>+ So only one copy of the code has to be in physical memory, which saves a lot of resources and data-space
+ <br>+ Very important in time-sharing systems
+ <br>+ used for interprocess communication 
+ <br>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14423">Page replacement</a></td><div class="posting fullpost">
+###  <p>What happens if there is no free frame?</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14397">Chapter 8 - Memory-Management Unit</a></td><div class="posting fullpost">
+###  <p>Describe <b>briefly</b> what the <b>MMU</b> is and it's relation to the <b>user program</b>.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>It's a hardware device that at run time maps virtual to physical address.</p>
+ <p><br></p>
+ <p>The user program only deals with logical addresses - it never sees the real physical adresses.</p>
+ <div class="editor-indent" style="margin-left:30px;">
+  <p>Execution-time binding occurs when reference is made to location in memory.</p>
+  <p>Logical address bound to physical adresses</p>
+ </div>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);">It's a hardware device that at run time maps virtual to physical address.</p>
+ <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);"><span style="line-height:1.5em;">Execution-time binding occurs when reference is made to location in memory.&nbsp;</span><span style="line-height:1.5em;">Logical address bound to physical adresses</span></p>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14398">Page replacement algorithm</a></td><div class="posting fullpost">
+###  <p>Briefly explain what a page replacement algorithm is.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>If there is no free frame, the algorithm is used to find a frame, that will be removed from the memory.</p>
+ <p>The victim will be paged out and the desired page will be paged in the main memory.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p></p>
+ <p><span style="font-size:10.5pt;line-height:107%;font-family:'Palatino-Roman';color:#231F20;" lang="en-us" xml:lang="en-us">Imagine there are multiple processes in memory. The algorithm with which it will be decided which frames that have to be replaced should be selected, is named the page-replacement algorithm. It selects the so-called victim frame. This victim frame will be paged out from physical memory.</span><span lang="en-us" xml:lang="en-us"></span></p>
+ <br>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14370">Ch. 9 - Virtual Memory</a></td><div class="posting fullpost">
+###  <p>Describe the features of virtual memory.&nbsp;</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span class="_Tgc _y9e">the virtual memory combines the RAM with temporary space on the hard disk. When RAM runs low, the memory moves data from RAM to a space called a paging file. Moving data to and from the paging file frees up the RAM so the computer can complete all its tasks.</span><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14371">Chapter 9: Global Replacement / Allocation</a></td><div class="posting fullpost">
+###  <p>Describe briefly what Global replacement is.</p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Global replacement means that a process can select a frame for replacement from the global (whole) set of frames including pages that are currently allocated to other processes. A problem is then that a process cannot control its own page-fault-rate, so that performance is heavily dependent on totally external circumstances.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>A process selects a replacement frame from the set of all frames; one process can take a frame from another.</p>
+ <p>--&gt; process execution time can vary greatly</p>
+ <p>--&gt; greater throughput</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Thank you! both answers are correct.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14390">Chapter 9: Page Fault Rate</a></td><div class="posting fullpost">
+###  <p>What is an <b>page-fault rate</b>? Describe briefly.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>The page-fault- rate is the rate for all page faults that occur. A Page-fault occurs whenever a process tries to access a page that was not brought into memory. In a good system that shouldn´t happen too often.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14402">Allocating Kernel Memory</a></td><div class="posting fullpost">
+###  <p>Kernel memory is often allocated from a free-memory pool different from the list used to satisfy ordinary user-mode processes.</p>
+ <p>Give the 2 primary reasons why this is the case.</p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14377">Dynamic Loading Chp.8</a></td><div class="posting fullpost">
+###  <p>Please describe the advantages of dynamic loading.</p>
+ <p><br></p>
+ <p>(Ignoriert die andere Frage von mir!)<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p><span style="line-height:1.5em;">I know it is not the question that I need to answer, however the other person didn't submit any question. So the advantages are:</span><br></p>
+ <p style="margin:5px 0px;padding:0px 0px 5px;font-family:Helvetica, Arial, sans-serif;line-height:1.5em;color:rgb(102,102,102);font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;text-align:left;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(255,255,255);"></p>
+ <ul style="margin:1em 1em 1em 2em;padding:0px;list-style:circle outside;font-family:Helvetica, Arial, sans-serif;">
+  <li style="margin:0px;padding:0px;">Routine is not loaded until it is called</li>
+  <li style="margin:0px;padding:0px;">Better memory-space utilization; unused routine is never loaded</li>
+  <li style="margin:0px;padding:0px;">All routines kept on disk in relocatable load format</li>
+  <li style="margin:0px;padding:0px;">Useful when large amounts of code are needed to handle infrequently occurring cases</li>
+  <li style="margin:0px;padding:0px;">No special support from the operating system is required.</li>
+ </ul>
+ <p></p>
+ <p></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14373">Chapter 9: Copy-on-Write</a></td><div class="posting fullpost">
+###  <p>Briefly <b>describe</b> the Term <b>"Copy-on-Write". </b>Is there any advantage?<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Copy-on-Write (COW) allows both parent and child processes to initially share the same pages in memory<br>If either process modifies a shared page, only then is the page copied</p>
+ <p>Advantage: COW allows more efficient process creation as only modified pages are copied<br><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Write-on-copy-technique:</p>
+ <p>When a process creates a child, inititially they share the same pages (these are the copy-on-write pages). As soon as one of the processes writes to one of the named pages, a copy of this specific page is created. The modifying process will continue writing to the copy instead of the shared page.</p>
+ <p>Advantages:</p>
+ <p> -performance boost by avoiding initial demanding paging and&nbsp; only copying as much pages as necessary.</p>
+ <p>-resource savings<br></p>
+ <p><br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14374">Chapter 9 - Page Fault</a></td><div class="posting fullpost">
+###  <p>Describe the given context. Attention: Use the professional terminology to depict the facts.</p>
+ <p><br></p>
+ <div class="attachedimages">
+  <br>
+  <img src="http://moodle.dhbw-mannheim.de/pluginfile.php/130009/mod_forum/attachment/26212/Picture1.jpg" alt="">
+ </div>
+</div>
+---
+
+<div class="posting fullpost">
+ <p>Addition : DON´T name the steps (these are already shown). Only summarize the 2-3 Main statements that you can see on the picture picture. (What is the picture about? Where do we need it etc.)<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14376">Binding of instructions and data to memory adresses Chp.8</a></td><div class="posting fullpost">
+###  <p>Please explain the three different stages of address binding and of instructions and data to memory addresses.<br></p>
+ <div class="attachedimages"></div>
+</div>
+---
+
+## <td class="topic starter"><a href="http://moodle.dhbw-mannheim.de/mod/forum/discuss.php?d=14369">Methods of virtual memory management</a></td><div class="posting fullpost">
+###  <p><b>Name</b> the <b>methods</b> that can be used <b>to implement virtual memory</b>.</p>
+ <p><br></p>
+ <p><br></p>
  <div class="attachedimages"></div>
 </div>
 ---
